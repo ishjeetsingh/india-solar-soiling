@@ -1,0 +1,9 @@
+site_id,site,lat,lon,rate_pct_per_day,rate_low,rate_high,season,source,strength,notes
+1,Gandhinagar,23.21,72.68,0.37,0.28,0.46,mixed,Valerino et al. 2020 Solar Energy doi:10.1016/j.solener.2020.03.118,strong,
+2,Gandhinagar seasonal,23.21,72.68,0.45,0.35,0.55,dry,Valerino et al. Bergin lab seasonal PV soiling study,strong,~0 during monsoon
+3,Delhi,28.61,77.21,0.45,0.30,0.60,dry,EU PVSEC paper on Delhi PV losses,medium,find full citation
+4,Chennai,13.08,80.27,0.255,0.12,0.39,dry,Herrmann et al. 2015 TUV PV-KLIMA,medium,
+5,Mumbai IIT Bombay,19.13,72.92,0.40,,,post-monsoon,Kottantharayil interview pv magazine,weak,find original paper
+6,Lucknow,26.85,80.95,0.39,0.24,0.39,spring,Solar Energy 2022 BAPV study,medium,verify original; 0.24 in monsoon
+7,North India rooftop,,,0.47,,,max,Scientific Reports 2025 art. 42035,medium,find exact city
+8,Pune,18.52,73.86,0.34,,,dry,ResearchGate 2.5 MWp Pune plant study,medium,converted from ~10.28%/month

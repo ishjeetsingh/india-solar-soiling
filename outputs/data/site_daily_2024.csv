@@ -1,0 +1,2563 @@
+date,rain_mm,irradiance_kwh_m2,aod_merra2,site
+2024-01-01,0.0,3.5275,0.76,Gandhinagar
+2024-01-02,0.0,3.33,0.92,Gandhinagar
+2024-01-03,0.0,4.0056,0.53,Gandhinagar
+2024-01-04,0.0,4.1381,0.41,Gandhinagar
+2024-01-05,0.0,4.3733,0.3,Gandhinagar
+2024-01-06,0.0,4.3968,0.29,Gandhinagar
+2024-01-07,0.0,3.6864,0.86,Gandhinagar
+2024-01-08,0.0,2.9014,1.76,Gandhinagar
+2024-01-09,0.13,3.4824,0.91,Gandhinagar
+2024-01-10,0.27,3.9324,0.56,Gandhinagar
+2024-01-11,0.0,4.4657,0.3,Gandhinagar
+2024-01-12,0.0,4.5605,0.25,Gandhinagar
+2024-01-13,0.0,4.8091,0.19,Gandhinagar
+2024-01-14,0.0,4.9483,0.16,Gandhinagar
+2024-01-15,0.0,4.8982,0.21,Gandhinagar
+2024-01-16,0.0,4.8367,0.24,Gandhinagar
+2024-01-17,0.0,4.5545,0.3,Gandhinagar
+2024-01-18,0.0,4.5319,0.4,Gandhinagar
+2024-01-19,0.0,4.6838,0.33,Gandhinagar
+2024-01-20,0.0,4.6656,0.31,Gandhinagar
+2024-01-21,0.0,4.8564,0.24,Gandhinagar
+2024-01-22,0.0,4.8266,0.21,Gandhinagar
+2024-01-23,0.0,4.9925,0.23,Gandhinagar
+2024-01-24,0.0,5.0604,0.23,Gandhinagar
+2024-01-25,0.0,4.6992,0.22,Gandhinagar
+2024-01-26,0.0,4.9207,0.23,Gandhinagar
+2024-01-27,0.0,4.4482,0.3,Gandhinagar
+2024-01-28,0.0,4.5456,0.32,Gandhinagar
+2024-01-29,0.0,4.2394,0.4,Gandhinagar
+2024-01-30,0.0,4.3481,0.48,Gandhinagar
+2024-01-31,0.0,3.6629,0.53,Gandhinagar
+2024-02-01,0.0,4.6567,0.39,Gandhinagar
+2024-02-02,0.0,5.1005,0.27,Gandhinagar
+2024-02-03,0.0,4.7894,0.33,Gandhinagar
+2024-02-04,0.0,4.908,0.31,Gandhinagar
+2024-02-05,0.0,4.8024,0.31,Gandhinagar
+2024-02-06,0.0,4.8811,0.4,Gandhinagar
+2024-02-07,0.0,4.5924,0.47,Gandhinagar
+2024-02-08,0.0,5.1446,0.31,Gandhinagar
+2024-02-09,0.0,5.423,0.19,Gandhinagar
+2024-02-10,0.0,5.73,0.21,Gandhinagar
+2024-02-11,0.0,5.2246,0.3,Gandhinagar
+2024-02-12,0.0,4.4923,0.46,Gandhinagar
+2024-02-13,0.0,4.1086,0.57,Gandhinagar
+2024-02-14,0.0,4.9829,0.63,Gandhinagar
+2024-02-15,0.0,4.8492,0.71,Gandhinagar
+2024-02-16,0.0,5.13,0.55,Gandhinagar
+2024-02-17,0.0,5.4972,0.38,Gandhinagar
+2024-02-18,0.0,5.8807,0.25,Gandhinagar
+2024-02-19,0.0,5.574,0.23,Gandhinagar
+2024-02-20,0.0,5.6945,0.22,Gandhinagar
+2024-02-21,0.0,5.7754,0.3,Gandhinagar
+2024-02-22,0.0,5.6498,0.38,Gandhinagar
+2024-02-23,0.0,6.4056,0.18,Gandhinagar
+2024-02-24,0.0,6.4714,0.16,Gandhinagar
+2024-02-25,0.0,5.9618,0.21,Gandhinagar
+2024-02-26,0.0,4.0471,0.51,Gandhinagar
+2024-02-27,0.0,4.9742,0.53,Gandhinagar
+2024-02-28,0.0,5.8284,0.42,Gandhinagar
+2024-02-29,0.0,6.0838,0.33,Gandhinagar
+2024-03-01,0.0,5.4245,0.49,Gandhinagar
+2024-03-02,3.2,3.6238,0.38,Gandhinagar
+2024-03-03,0.0,6.5563,0.19,Gandhinagar
+2024-03-04,0.0,6.6485,0.16,Gandhinagar
+2024-03-05,0.0,6.6797,0.16,Gandhinagar
+2024-03-06,0.0,6.4176,0.24,Gandhinagar
+2024-03-07,0.0,6.4097,0.21,Gandhinagar
+2024-03-08,0.0,6.4634,0.2,Gandhinagar
+2024-03-09,0.0,6.7152,0.2,Gandhinagar
+2024-03-10,0.0,6.2866,0.26,Gandhinagar
+2024-03-11,0.0,6.359,0.25,Gandhinagar
+2024-03-12,0.0,6.5285,0.18,Gandhinagar
+2024-03-13,0.0,6.3905,0.28,Gandhinagar
+2024-03-14,0.0,6.3336,0.37,Gandhinagar
+2024-03-15,0.0,6.5906,0.25,Gandhinagar
+2024-03-16,0.0,6.5834,0.28,Gandhinagar
+2024-03-17,0.0,6.4015,0.37,Gandhinagar
+2024-03-18,0.0,6.6506,0.28,Gandhinagar
+2024-03-19,0.0,6.4483,0.23,Gandhinagar
+2024-03-20,0.0,6.8119,0.21,Gandhinagar
+2024-03-21,0.0,5.8164,0.28,Gandhinagar
+2024-03-22,0.0,6.9732,0.29,Gandhinagar
+2024-03-23,0.0,6.8861,0.32,Gandhinagar
+2024-03-24,0.0,6.6542,0.34,Gandhinagar
+2024-03-25,0.0,6.4514,0.31,Gandhinagar
+2024-03-26,0.0,6.3991,0.33,Gandhinagar
+2024-03-27,0.0,6.623,0.37,Gandhinagar
+2024-03-28,0.0,6.5789,0.46,Gandhinagar
+2024-03-29,0.0,6.2448,0.6,Gandhinagar
+2024-03-30,0.0,6.7814,0.34,Gandhinagar
+2024-03-31,0.0,7.1983,0.25,Gandhinagar
+2024-04-01,0.0,6.6775,0.41,Gandhinagar
+2024-04-02,0.0,5.3978,0.46,Gandhinagar
+2024-04-03,0.0,6.5522,0.39,Gandhinagar
+2024-04-04,0.0,4.0284,0.63,Gandhinagar
+2024-04-05,0.0,4.4263,0.54,Gandhinagar
+2024-04-06,0.0,6.5918,0.46,Gandhinagar
+2024-04-07,0.0,6.9391,0.28,Gandhinagar
+2024-04-08,0.0,7.1422,0.29,Gandhinagar
+2024-04-09,0.0,6.7226,0.39,Gandhinagar
+2024-04-10,0.0,5.7852,0.63,Gandhinagar
+2024-04-11,0.01,5.665,0.79,Gandhinagar
+2024-04-12,0.0,6.341,0.71,Gandhinagar
+2024-04-13,0.0,6.6876,0.48,Gandhinagar
+2024-04-14,0.0,5.9748,0.65,Gandhinagar
+2024-04-15,0.0,6.7236,0.6,Gandhinagar
+2024-04-16,0.0,7.2574,0.33,Gandhinagar
+2024-04-17,0.0,6.4733,0.34,Gandhinagar
+2024-04-18,0.0,6.9586,0.3,Gandhinagar
+2024-04-19,0.0,7.0457,0.42,Gandhinagar
+2024-04-20,0.0,7.3421,0.28,Gandhinagar
+2024-04-21,0.0,6.5263,0.35,Gandhinagar
+2024-04-22,0.0,7.3685,0.24,Gandhinagar
+2024-04-23,0.0,7.295,0.26,Gandhinagar
+2024-04-24,0.0,7.3627,0.29,Gandhinagar
+2024-04-25,0.0,7.2883,0.33,Gandhinagar
+2024-04-26,0.0,7.3886,0.32,Gandhinagar
+2024-04-27,0.01,6.5357,0.34,Gandhinagar
+2024-04-28,0.0,7.6162,0.32,Gandhinagar
+2024-04-29,0.0,7.2353,0.35,Gandhinagar
+2024-04-30,0.0,7.3656,0.43,Gandhinagar
+2024-05-01,0.0,8.0568,0.3,Gandhinagar
+2024-05-02,0.0,7.8658,0.21,Gandhinagar
+2024-05-03,0.0,7.8898,0.26,Gandhinagar
+2024-05-04,0.0,6.2254,0.27,Gandhinagar
+2024-05-05,0.0,5.3712,0.45,Gandhinagar
+2024-05-06,0.0,7.291,0.32,Gandhinagar
+2024-05-07,0.0,7.5041,0.32,Gandhinagar
+2024-05-08,0.0,7.2778,0.38,Gandhinagar
+2024-05-09,0.0,7.4369,0.35,Gandhinagar
+2024-05-10,0.0,7.3714,0.37,Gandhinagar
+2024-05-11,0.04,7.1789,0.58,Gandhinagar
+2024-05-12,0.02,7.147,0.64,Gandhinagar
+2024-05-13,0.66,6.594,0.54,Gandhinagar
+2024-05-14,5.11,6.3571,0.44,Gandhinagar
+2024-05-15,0.0,6.42,0.43,Gandhinagar
+2024-05-16,0.35,7.0591,0.49,Gandhinagar
+2024-05-17,0.0,7.2521,0.48,Gandhinagar
+2024-05-18,0.02,7.2146,0.48,Gandhinagar
+2024-05-19,0.0,6.8522,0.46,Gandhinagar
+2024-05-20,0.0,7.1477,0.52,Gandhinagar
+2024-05-21,0.0,7.4503,0.43,Gandhinagar
+2024-05-22,0.0,7.0927,0.39,Gandhinagar
+2024-05-23,0.0,7.5206,0.36,Gandhinagar
+2024-05-24,0.0,7.356,0.37,Gandhinagar
+2024-05-25,0.0,7.4868,0.43,Gandhinagar
+2024-05-26,0.0,7.1386,0.48,Gandhinagar
+2024-05-27,0.0,7.3308,0.56,Gandhinagar
+2024-05-28,0.0,6.8004,0.49,Gandhinagar
+2024-05-29,0.0,6.3197,0.4,Gandhinagar
+2024-05-30,0.0,7.2871,0.37,Gandhinagar
+2024-05-31,0.0,7.7018,0.32,Gandhinagar
+2024-06-01,0.0,7.2367,0.38,Gandhinagar
+2024-06-02,0.0,7.5012,0.35,Gandhinagar
+2024-06-03,0.0,7.435,0.42,Gandhinagar
+2024-06-04,0.0,7.3188,0.43,Gandhinagar
+2024-06-05,0.0,7.5845,0.32,Gandhinagar
+2024-06-06,0.0,7.4702,0.33,Gandhinagar
+2024-06-07,0.02,7.2062,0.41,Gandhinagar
+2024-06-08,0.23,7.349,0.45,Gandhinagar
+2024-06-09,0.6,7.195,0.44,Gandhinagar
+2024-06-10,2.01,5.4814,1.1,Gandhinagar
+2024-06-11,7.97,6.7927,0.96,Gandhinagar
+2024-06-12,0.0,7.2413,0.61,Gandhinagar
+2024-06-13,0.49,7.7465,0.3,Gandhinagar
+2024-06-14,0.34,7.7023,0.27,Gandhinagar
+2024-06-15,2.3,7.2077,0.43,Gandhinagar
+2024-06-16,0.43,6.7855,0.62,Gandhinagar
+2024-06-17,0.04,7.0721,0.67,Gandhinagar
+2024-06-18,0.04,6.1939,0.52,Gandhinagar
+2024-06-19,0.05,5.1974,0.57,Gandhinagar
+2024-06-20,0.27,6.198,0.78,Gandhinagar
+2024-06-21,0.05,5.4096,1.08,Gandhinagar
+2024-06-22,0.44,5.8822,1.17,Gandhinagar
+2024-06-23,1.82,3.8213,1.18,Gandhinagar
+2024-06-24,22.58,3.815,1.25,Gandhinagar
+2024-06-25,18.2,5.1094,1.4,Gandhinagar
+2024-06-26,2.5,5.6681,1.24,Gandhinagar
+2024-06-27,3.04,4.3102,0.68,Gandhinagar
+2024-06-28,3.67,4.8787,0.53,Gandhinagar
+2024-06-29,7.56,5.0333,0.66,Gandhinagar
+2024-06-30,18.9,3.3902,0.79,Gandhinagar
+2024-07-01,17.71,4.2322,0.69,Gandhinagar
+2024-07-02,9.23,1.8485,0.53,Gandhinagar
+2024-07-03,1.64,4.3601,1.2,Gandhinagar
+2024-07-04,6.15,3.3185,1.63,Gandhinagar
+2024-07-05,7.47,2.9201,1.87,Gandhinagar
+2024-07-06,1.15,3.6396,1.93,Gandhinagar
+2024-07-07,0.26,3.5873,1.73,Gandhinagar
+2024-07-08,0.61,5.1504,1.25,Gandhinagar
+2024-07-09,7.83,4.9646,0.79,Gandhinagar
+2024-07-10,1.38,5.215,0.86,Gandhinagar
+2024-07-11,1.27,4.9186,0.99,Gandhinagar
+2024-07-12,3.18,4.5108,0.85,Gandhinagar
+2024-07-13,1.07,5.1185,1.12,Gandhinagar
+2024-07-14,1.46,6.0269,1.21,Gandhinagar
+2024-07-15,33.74,3.1454,0.71,Gandhinagar
+2024-07-16,11.55,4.7134,0.79,Gandhinagar
+2024-07-17,2.56,4.1935,0.99,Gandhinagar
+2024-07-18,0.37,5.4415,0.75,Gandhinagar
+2024-07-19,0.12,4.5912,0.75,Gandhinagar
+2024-07-20,0.53,5.1173,0.92,Gandhinagar
+2024-07-21,1.34,4.891,0.91,Gandhinagar
+2024-07-22,6.03,4.752,0.86,Gandhinagar
+2024-07-23,7.15,3.9842,0.63,Gandhinagar
+2024-07-24,32.62,3.4015,1.26,Gandhinagar
+2024-07-25,26.4,3.1603,1.5,Gandhinagar
+2024-07-26,6.85,3.0346,1.43,Gandhinagar
+2024-07-27,5.78,1.9349,1.99,Gandhinagar
+2024-07-28,5.63,3.3026,1.51,Gandhinagar
+2024-07-29,17.79,1.0829,0.85,Gandhinagar
+2024-07-30,4.05,3.4342,0.73,Gandhinagar
+2024-07-31,4.55,3.8498,0.94,Gandhinagar
+2024-08-01,9.61,2.9904,1.59,Gandhinagar
+2024-08-02,8.82,1.9267,1.14,Gandhinagar
+2024-08-03,13.03,2.7766,1.43,Gandhinagar
+2024-08-04,10.38,2.6304,1.81,Gandhinagar
+2024-08-05,5.08,3.1097,1.31,Gandhinagar
+2024-08-06,1.5,2.8814,1.15,Gandhinagar
+2024-08-07,0.34,2.7871,2.01,Gandhinagar
+2024-08-08,7.36,4.0238,1.46,Gandhinagar
+2024-08-09,6.59,3.0662,1.16,Gandhinagar
+2024-08-10,9.1,3.257,1.12,Gandhinagar
+2024-08-11,9.99,2.6287,1.09,Gandhinagar
+2024-08-12,8.25,2.5937,1.97,Gandhinagar
+2024-08-13,0.98,4.5487,1.68,Gandhinagar
+2024-08-14,1.7,4.7249,0.7,Gandhinagar
+2024-08-15,0.5,3.6158,1.14,Gandhinagar
+2024-08-16,2.48,3.9586,1.28,Gandhinagar
+2024-08-17,1.14,5.4115,0.86,Gandhinagar
+2024-08-18,0.19,5.2786,0.92,Gandhinagar
+2024-08-19,0.03,5.9311,0.79,Gandhinagar
+2024-08-20,1.75,5.4089,0.59,Gandhinagar
+2024-08-21,4.38,4.8214,0.66,Gandhinagar
+2024-08-22,2.58,4.1532,0.72,Gandhinagar
+2024-08-23,17.53,2.8042,1.21,Gandhinagar
+2024-08-24,45.03,2.8586,1.18,Gandhinagar
+2024-08-25,39.88,2.8541,0.69,Gandhinagar
+2024-08-26,134.15,2.754,0.78,Gandhinagar
+2024-08-27,62.66,1.4304,0.87,Gandhinagar
+2024-08-28,10.19,2.7936,0.67,Gandhinagar
+2024-08-29,15.18,3.6528,0.51,Gandhinagar
+2024-08-30,1.85,5.4125,0.46,Gandhinagar
+2024-08-31,0.07,6.2486,0.6,Gandhinagar
+2024-09-01,0.03,5.3546,0.7,Gandhinagar
+2024-09-02,51.33,2.7521,0.82,Gandhinagar
+2024-09-03,11.4,2.3906,0.77,Gandhinagar
+2024-09-04,4.24,3.3262,0.79,Gandhinagar
+2024-09-05,28.1,1.6589,0.76,Gandhinagar
+2024-09-06,5.12,4.6322,0.73,Gandhinagar
+2024-09-07,0.61,5.3069,0.7,Gandhinagar
+2024-09-08,0.03,3.3737,0.82,Gandhinagar
+2024-09-09,0.92,5.2675,0.45,Gandhinagar
+2024-09-10,6.04,3.2921,0.82,Gandhinagar
+2024-09-11,2.31,3.3072,0.75,Gandhinagar
+2024-09-12,0.17,4.17,0.74,Gandhinagar
+2024-09-13,2.11,4.1904,0.74,Gandhinagar
+2024-09-14,8.28,5.1749,0.56,Gandhinagar
+2024-09-15,1.82,5.5956,0.46,Gandhinagar
+2024-09-16,0.01,6.1445,0.43,Gandhinagar
+2024-09-17,0.0,6.1759,0.43,Gandhinagar
+2024-09-18,0.0,5.5325,0.45,Gandhinagar
+2024-09-19,0.0,5.9261,0.5,Gandhinagar
+2024-09-20,0.08,5.2488,0.4,Gandhinagar
+2024-09-21,0.03,5.1442,0.56,Gandhinagar
+2024-09-22,0.02,5.5579,0.48,Gandhinagar
+2024-09-23,0.98,5.7634,0.43,Gandhinagar
+2024-09-24,2.16,5.3796,0.56,Gandhinagar
+2024-09-25,8.33,4.746,0.66,Gandhinagar
+2024-09-26,20.09,3.8014,0.64,Gandhinagar
+2024-09-27,15.93,3.4946,0.77,Gandhinagar
+2024-09-28,7.01,3.4066,0.59,Gandhinagar
+2024-09-29,29.42,3.3977,0.62,Gandhinagar
+2024-09-30,8.19,4.8554,0.65,Gandhinagar
+2024-10-01,0.02,5.8778,0.41,Gandhinagar
+2024-10-02,0.0,5.9268,0.34,Gandhinagar
+2024-10-03,0.0,6.2242,0.25,Gandhinagar
+2024-10-04,0.0,5.5207,0.28,Gandhinagar
+2024-10-05,0.0,5.7178,0.39,Gandhinagar
+2024-10-06,0.0,5.8015,0.41,Gandhinagar
+2024-10-07,0.0,5.9383,0.37,Gandhinagar
+2024-10-08,0.0,5.676,0.47,Gandhinagar
+2024-10-09,0.15,5.6304,0.45,Gandhinagar
+2024-10-10,0.15,2.5582,0.88,Gandhinagar
+2024-10-11,0.38,2.2027,0.89,Gandhinagar
+2024-10-12,6.7,2.7838,0.61,Gandhinagar
+2024-10-13,3.93,4.3714,0.7,Gandhinagar
+2024-10-14,0.11,4.4314,0.68,Gandhinagar
+2024-10-15,0.13,4.7126,0.64,Gandhinagar
+2024-10-16,0.01,5.4802,0.4,Gandhinagar
+2024-10-17,0.1,5.3914,0.38,Gandhinagar
+2024-10-18,0.4,5.148,0.42,Gandhinagar
+2024-10-19,5.22,4.8259,0.52,Gandhinagar
+2024-10-20,1.06,4.9985,0.59,Gandhinagar
+2024-10-21,1.55,4.5984,0.7,Gandhinagar
+2024-10-22,0.45,4.758,0.94,Gandhinagar
+2024-10-23,0.0,4.8578,0.83,Gandhinagar
+2024-10-24,0.0,5.1737,0.41,Gandhinagar
+2024-10-25,0.0,5.3342,0.34,Gandhinagar
+2024-10-26,0.0,5.3923,0.33,Gandhinagar
+2024-10-27,0.0,5.3196,0.34,Gandhinagar
+2024-10-28,0.0,5.0575,0.45,Gandhinagar
+2024-10-29,0.0,5.0254,0.45,Gandhinagar
+2024-10-30,0.0,5.1986,0.35,Gandhinagar
+2024-10-31,0.0,5.2099,0.29,Gandhinagar
+2024-11-01,0.0,5.4012,0.2,Gandhinagar
+2024-11-02,0.0,5.471,0.17,Gandhinagar
+2024-11-03,0.0,5.3412,0.2,Gandhinagar
+2024-11-04,0.0,5.3232,0.19,Gandhinagar
+2024-11-05,0.0,5.0539,0.3,Gandhinagar
+2024-11-06,0.0,4.8605,0.38,Gandhinagar
+2024-11-07,0.0,4.884,0.35,Gandhinagar
+2024-11-08,0.0,5.0892,0.25,Gandhinagar
+2024-11-09,0.0,5.0225,0.25,Gandhinagar
+2024-11-10,0.0,5.0671,0.25,Gandhinagar
+2024-11-11,0.0,4.7506,0.38,Gandhinagar
+2024-11-12,0.0,4.6637,0.42,Gandhinagar
+2024-11-13,0.0,4.5108,0.5,Gandhinagar
+2024-11-14,0.0,4.357,0.59,Gandhinagar
+2024-11-15,0.0,4.4158,0.56,Gandhinagar
+2024-11-16,0.0,4.4326,0.53,Gandhinagar
+2024-11-17,0.0,4.5379,0.45,Gandhinagar
+2024-11-18,0.0,4.5578,0.41,Gandhinagar
+2024-11-19,0.0,4.5149,0.4,Gandhinagar
+2024-11-20,0.0,4.6488,0.33,Gandhinagar
+2024-11-21,0.0,4.5062,0.43,Gandhinagar
+2024-11-22,0.0,4.2787,0.53,Gandhinagar
+2024-11-23,0.0,4.1803,0.55,Gandhinagar
+2024-11-24,0.0,4.1155,0.58,Gandhinagar
+2024-11-25,0.0,4.4772,0.41,Gandhinagar
+2024-11-26,0.0,4.5266,0.33,Gandhinagar
+2024-11-27,0.0,4.5319,0.3,Gandhinagar
+2024-11-28,0.0,4.5101,0.3,Gandhinagar
+2024-11-29,0.0,4.4383,0.33,Gandhinagar
+2024-11-30,0.0,4.4006,0.35,Gandhinagar
+2024-12-01,0.0,4.3826,0.38,Gandhinagar
+2024-12-02,0.0,4.2646,0.39,Gandhinagar
+2024-12-03,0.0,4.1674,0.41,Gandhinagar
+2024-12-04,0.0,4.121,0.37,Gandhinagar
+2024-12-05,0.0,4.4318,0.25,Gandhinagar
+2024-12-06,0.0,4.3452,0.2,Gandhinagar
+2024-12-07,0.0,4.5977,0.19,Gandhinagar
+2024-12-08,0.0,4.891,0.13,Gandhinagar
+2024-12-09,0.0,4.8588,0.15,Gandhinagar
+2024-12-10,0.0,4.6368,0.22,Gandhinagar
+2024-12-11,0.0,4.6464,0.2,Gandhinagar
+2024-12-12,0.0,4.6027,0.22,Gandhinagar
+2024-12-13,0.0,4.4666,0.24,Gandhinagar
+2024-12-14,0.0,4.7309,0.18,Gandhinagar
+2024-12-15,0.0,4.873,0.11,Gandhinagar
+2024-12-16,0.0,4.8118,0.12,Gandhinagar
+2024-12-17,0.0,4.6788,0.15,Gandhinagar
+2024-12-18,0.0,4.3807,0.27,Gandhinagar
+2024-12-19,0.0,4.1227,0.39,Gandhinagar
+2024-12-20,0.0,3.9137,0.51,Gandhinagar
+2024-12-21,0.0,3.8834,0.56,Gandhinagar
+2024-12-22,0.0,2.8361,1.14,Gandhinagar
+2024-12-23,0.0,2.5987,1.97,Gandhinagar
+2024-12-24,0.0,3.3713,0.97,Gandhinagar
+2024-12-25,0.0,2.6215,1.62,Gandhinagar
+2024-12-26,0.03,2.0534,2.4,Gandhinagar
+2024-12-27,0.15,1.9452,2.0,Gandhinagar
+2024-12-28,0.0,2.9218,1.13,Gandhinagar
+2024-12-29,0.0,3.7903,0.6,Gandhinagar
+2024-12-30,0.0,4.2526,0.39,Gandhinagar
+2024-12-31,0.0,4.2893,0.35,Gandhinagar
+2024-01-01,0.0,3.5275,0.76,Gandhinagar seasonal
+2024-01-02,0.0,3.33,0.92,Gandhinagar seasonal
+2024-01-03,0.0,4.0056,0.53,Gandhinagar seasonal
+2024-01-04,0.0,4.1381,0.41,Gandhinagar seasonal
+2024-01-05,0.0,4.3733,0.3,Gandhinagar seasonal
+2024-01-06,0.0,4.3968,0.29,Gandhinagar seasonal
+2024-01-07,0.0,3.6864,0.86,Gandhinagar seasonal
+2024-01-08,0.0,2.9014,1.76,Gandhinagar seasonal
+2024-01-09,0.13,3.4824,0.91,Gandhinagar seasonal
+2024-01-10,0.27,3.9324,0.56,Gandhinagar seasonal
+2024-01-11,0.0,4.4657,0.3,Gandhinagar seasonal
+2024-01-12,0.0,4.5605,0.25,Gandhinagar seasonal
+2024-01-13,0.0,4.8091,0.19,Gandhinagar seasonal
+2024-01-14,0.0,4.9483,0.16,Gandhinagar seasonal
+2024-01-15,0.0,4.8982,0.21,Gandhinagar seasonal
+2024-01-16,0.0,4.8367,0.24,Gandhinagar seasonal
+2024-01-17,0.0,4.5545,0.3,Gandhinagar seasonal
+2024-01-18,0.0,4.5319,0.4,Gandhinagar seasonal
+2024-01-19,0.0,4.6838,0.33,Gandhinagar seasonal
+2024-01-20,0.0,4.6656,0.31,Gandhinagar seasonal
+2024-01-21,0.0,4.8564,0.24,Gandhinagar seasonal
+2024-01-22,0.0,4.8266,0.21,Gandhinagar seasonal
+2024-01-23,0.0,4.9925,0.23,Gandhinagar seasonal
+2024-01-24,0.0,5.0604,0.23,Gandhinagar seasonal
+2024-01-25,0.0,4.6992,0.22,Gandhinagar seasonal
+2024-01-26,0.0,4.9207,0.23,Gandhinagar seasonal
+2024-01-27,0.0,4.4482,0.3,Gandhinagar seasonal
+2024-01-28,0.0,4.5456,0.32,Gandhinagar seasonal
+2024-01-29,0.0,4.2394,0.4,Gandhinagar seasonal
+2024-01-30,0.0,4.3481,0.48,Gandhinagar seasonal
+2024-01-31,0.0,3.6629,0.53,Gandhinagar seasonal
+2024-02-01,0.0,4.6567,0.39,Gandhinagar seasonal
+2024-02-02,0.0,5.1005,0.27,Gandhinagar seasonal
+2024-02-03,0.0,4.7894,0.33,Gandhinagar seasonal
+2024-02-04,0.0,4.908,0.31,Gandhinagar seasonal
+2024-02-05,0.0,4.8024,0.31,Gandhinagar seasonal
+2024-02-06,0.0,4.8811,0.4,Gandhinagar seasonal
+2024-02-07,0.0,4.5924,0.47,Gandhinagar seasonal
+2024-02-08,0.0,5.1446,0.31,Gandhinagar seasonal
+2024-02-09,0.0,5.423,0.19,Gandhinagar seasonal
+2024-02-10,0.0,5.73,0.21,Gandhinagar seasonal
+2024-02-11,0.0,5.2246,0.3,Gandhinagar seasonal
+2024-02-12,0.0,4.4923,0.46,Gandhinagar seasonal
+2024-02-13,0.0,4.1086,0.57,Gandhinagar seasonal
+2024-02-14,0.0,4.9829,0.63,Gandhinagar seasonal
+2024-02-15,0.0,4.8492,0.71,Gandhinagar seasonal
+2024-02-16,0.0,5.13,0.55,Gandhinagar seasonal
+2024-02-17,0.0,5.4972,0.38,Gandhinagar seasonal
+2024-02-18,0.0,5.8807,0.25,Gandhinagar seasonal
+2024-02-19,0.0,5.574,0.23,Gandhinagar seasonal
+2024-02-20,0.0,5.6945,0.22,Gandhinagar seasonal
+2024-02-21,0.0,5.7754,0.3,Gandhinagar seasonal
+2024-02-22,0.0,5.6498,0.38,Gandhinagar seasonal
+2024-02-23,0.0,6.4056,0.18,Gandhinagar seasonal
+2024-02-24,0.0,6.4714,0.16,Gandhinagar seasonal
+2024-02-25,0.0,5.9618,0.21,Gandhinagar seasonal
+2024-02-26,0.0,4.0471,0.51,Gandhinagar seasonal
+2024-02-27,0.0,4.9742,0.53,Gandhinagar seasonal
+2024-02-28,0.0,5.8284,0.42,Gandhinagar seasonal
+2024-02-29,0.0,6.0838,0.33,Gandhinagar seasonal
+2024-03-01,0.0,5.4245,0.49,Gandhinagar seasonal
+2024-03-02,3.2,3.6238,0.38,Gandhinagar seasonal
+2024-03-03,0.0,6.5563,0.19,Gandhinagar seasonal
+2024-03-04,0.0,6.6485,0.16,Gandhinagar seasonal
+2024-03-05,0.0,6.6797,0.16,Gandhinagar seasonal
+2024-03-06,0.0,6.4176,0.24,Gandhinagar seasonal
+2024-03-07,0.0,6.4097,0.21,Gandhinagar seasonal
+2024-03-08,0.0,6.4634,0.2,Gandhinagar seasonal
+2024-03-09,0.0,6.7152,0.2,Gandhinagar seasonal
+2024-03-10,0.0,6.2866,0.26,Gandhinagar seasonal
+2024-03-11,0.0,6.359,0.25,Gandhinagar seasonal
+2024-03-12,0.0,6.5285,0.18,Gandhinagar seasonal
+2024-03-13,0.0,6.3905,0.28,Gandhinagar seasonal
+2024-03-14,0.0,6.3336,0.37,Gandhinagar seasonal
+2024-03-15,0.0,6.5906,0.25,Gandhinagar seasonal
+2024-03-16,0.0,6.5834,0.28,Gandhinagar seasonal
+2024-03-17,0.0,6.4015,0.37,Gandhinagar seasonal
+2024-03-18,0.0,6.6506,0.28,Gandhinagar seasonal
+2024-03-19,0.0,6.4483,0.23,Gandhinagar seasonal
+2024-03-20,0.0,6.8119,0.21,Gandhinagar seasonal
+2024-03-21,0.0,5.8164,0.28,Gandhinagar seasonal
+2024-03-22,0.0,6.9732,0.29,Gandhinagar seasonal
+2024-03-23,0.0,6.8861,0.32,Gandhinagar seasonal
+2024-03-24,0.0,6.6542,0.34,Gandhinagar seasonal
+2024-03-25,0.0,6.4514,0.31,Gandhinagar seasonal
+2024-03-26,0.0,6.3991,0.33,Gandhinagar seasonal
+2024-03-27,0.0,6.623,0.37,Gandhinagar seasonal
+2024-03-28,0.0,6.5789,0.46,Gandhinagar seasonal
+2024-03-29,0.0,6.2448,0.6,Gandhinagar seasonal
+2024-03-30,0.0,6.7814,0.34,Gandhinagar seasonal
+2024-03-31,0.0,7.1983,0.25,Gandhinagar seasonal
+2024-04-01,0.0,6.6775,0.41,Gandhinagar seasonal
+2024-04-02,0.0,5.3978,0.46,Gandhinagar seasonal
+2024-04-03,0.0,6.5522,0.39,Gandhinagar seasonal
+2024-04-04,0.0,4.0284,0.63,Gandhinagar seasonal
+2024-04-05,0.0,4.4263,0.54,Gandhinagar seasonal
+2024-04-06,0.0,6.5918,0.46,Gandhinagar seasonal
+2024-04-07,0.0,6.9391,0.28,Gandhinagar seasonal
+2024-04-08,0.0,7.1422,0.29,Gandhinagar seasonal
+2024-04-09,0.0,6.7226,0.39,Gandhinagar seasonal
+2024-04-10,0.0,5.7852,0.63,Gandhinagar seasonal
+2024-04-11,0.01,5.665,0.79,Gandhinagar seasonal
+2024-04-12,0.0,6.341,0.71,Gandhinagar seasonal
+2024-04-13,0.0,6.6876,0.48,Gandhinagar seasonal
+2024-04-14,0.0,5.9748,0.65,Gandhinagar seasonal
+2024-04-15,0.0,6.7236,0.6,Gandhinagar seasonal
+2024-04-16,0.0,7.2574,0.33,Gandhinagar seasonal
+2024-04-17,0.0,6.4733,0.34,Gandhinagar seasonal
+2024-04-18,0.0,6.9586,0.3,Gandhinagar seasonal
+2024-04-19,0.0,7.0457,0.42,Gandhinagar seasonal
+2024-04-20,0.0,7.3421,0.28,Gandhinagar seasonal
+2024-04-21,0.0,6.5263,0.35,Gandhinagar seasonal
+2024-04-22,0.0,7.3685,0.24,Gandhinagar seasonal
+2024-04-23,0.0,7.295,0.26,Gandhinagar seasonal
+2024-04-24,0.0,7.3627,0.29,Gandhinagar seasonal
+2024-04-25,0.0,7.2883,0.33,Gandhinagar seasonal
+2024-04-26,0.0,7.3886,0.32,Gandhinagar seasonal
+2024-04-27,0.01,6.5357,0.34,Gandhinagar seasonal
+2024-04-28,0.0,7.6162,0.32,Gandhinagar seasonal
+2024-04-29,0.0,7.2353,0.35,Gandhinagar seasonal
+2024-04-30,0.0,7.3656,0.43,Gandhinagar seasonal
+2024-05-01,0.0,8.0568,0.3,Gandhinagar seasonal
+2024-05-02,0.0,7.8658,0.21,Gandhinagar seasonal
+2024-05-03,0.0,7.8898,0.26,Gandhinagar seasonal
+2024-05-04,0.0,6.2254,0.27,Gandhinagar seasonal
+2024-05-05,0.0,5.3712,0.45,Gandhinagar seasonal
+2024-05-06,0.0,7.291,0.32,Gandhinagar seasonal
+2024-05-07,0.0,7.5041,0.32,Gandhinagar seasonal
+2024-05-08,0.0,7.2778,0.38,Gandhinagar seasonal
+2024-05-09,0.0,7.4369,0.35,Gandhinagar seasonal
+2024-05-10,0.0,7.3714,0.37,Gandhinagar seasonal
+2024-05-11,0.04,7.1789,0.58,Gandhinagar seasonal
+2024-05-12,0.02,7.147,0.64,Gandhinagar seasonal
+2024-05-13,0.66,6.594,0.54,Gandhinagar seasonal
+2024-05-14,5.11,6.3571,0.44,Gandhinagar seasonal
+2024-05-15,0.0,6.42,0.43,Gandhinagar seasonal
+2024-05-16,0.35,7.0591,0.49,Gandhinagar seasonal
+2024-05-17,0.0,7.2521,0.48,Gandhinagar seasonal
+2024-05-18,0.02,7.2146,0.48,Gandhinagar seasonal
+2024-05-19,0.0,6.8522,0.46,Gandhinagar seasonal
+2024-05-20,0.0,7.1477,0.52,Gandhinagar seasonal
+2024-05-21,0.0,7.4503,0.43,Gandhinagar seasonal
+2024-05-22,0.0,7.0927,0.39,Gandhinagar seasonal
+2024-05-23,0.0,7.5206,0.36,Gandhinagar seasonal
+2024-05-24,0.0,7.356,0.37,Gandhinagar seasonal
+2024-05-25,0.0,7.4868,0.43,Gandhinagar seasonal
+2024-05-26,0.0,7.1386,0.48,Gandhinagar seasonal
+2024-05-27,0.0,7.3308,0.56,Gandhinagar seasonal
+2024-05-28,0.0,6.8004,0.49,Gandhinagar seasonal
+2024-05-29,0.0,6.3197,0.4,Gandhinagar seasonal
+2024-05-30,0.0,7.2871,0.37,Gandhinagar seasonal
+2024-05-31,0.0,7.7018,0.32,Gandhinagar seasonal
+2024-06-01,0.0,7.2367,0.38,Gandhinagar seasonal
+2024-06-02,0.0,7.5012,0.35,Gandhinagar seasonal
+2024-06-03,0.0,7.435,0.42,Gandhinagar seasonal
+2024-06-04,0.0,7.3188,0.43,Gandhinagar seasonal
+2024-06-05,0.0,7.5845,0.32,Gandhinagar seasonal
+2024-06-06,0.0,7.4702,0.33,Gandhinagar seasonal
+2024-06-07,0.02,7.2062,0.41,Gandhinagar seasonal
+2024-06-08,0.23,7.349,0.45,Gandhinagar seasonal
+2024-06-09,0.6,7.195,0.44,Gandhinagar seasonal
+2024-06-10,2.01,5.4814,1.1,Gandhinagar seasonal
+2024-06-11,7.97,6.7927,0.96,Gandhinagar seasonal
+2024-06-12,0.0,7.2413,0.61,Gandhinagar seasonal
+2024-06-13,0.49,7.7465,0.3,Gandhinagar seasonal
+2024-06-14,0.34,7.7023,0.27,Gandhinagar seasonal
+2024-06-15,2.3,7.2077,0.43,Gandhinagar seasonal
+2024-06-16,0.43,6.7855,0.62,Gandhinagar seasonal
+2024-06-17,0.04,7.0721,0.67,Gandhinagar seasonal
+2024-06-18,0.04,6.1939,0.52,Gandhinagar seasonal
+2024-06-19,0.05,5.1974,0.57,Gandhinagar seasonal
+2024-06-20,0.27,6.198,0.78,Gandhinagar seasonal
+2024-06-21,0.05,5.4096,1.08,Gandhinagar seasonal
+2024-06-22,0.44,5.8822,1.17,Gandhinagar seasonal
+2024-06-23,1.82,3.8213,1.18,Gandhinagar seasonal
+2024-06-24,22.58,3.815,1.25,Gandhinagar seasonal
+2024-06-25,18.2,5.1094,1.4,Gandhinagar seasonal
+2024-06-26,2.5,5.6681,1.24,Gandhinagar seasonal
+2024-06-27,3.04,4.3102,0.68,Gandhinagar seasonal
+2024-06-28,3.67,4.8787,0.53,Gandhinagar seasonal
+2024-06-29,7.56,5.0333,0.66,Gandhinagar seasonal
+2024-06-30,18.9,3.3902,0.79,Gandhinagar seasonal
+2024-07-01,17.71,4.2322,0.69,Gandhinagar seasonal
+2024-07-02,9.23,1.8485,0.53,Gandhinagar seasonal
+2024-07-03,1.64,4.3601,1.2,Gandhinagar seasonal
+2024-07-04,6.15,3.3185,1.63,Gandhinagar seasonal
+2024-07-05,7.47,2.9201,1.87,Gandhinagar seasonal
+2024-07-06,1.15,3.6396,1.93,Gandhinagar seasonal
+2024-07-07,0.26,3.5873,1.73,Gandhinagar seasonal
+2024-07-08,0.61,5.1504,1.25,Gandhinagar seasonal
+2024-07-09,7.83,4.9646,0.79,Gandhinagar seasonal
+2024-07-10,1.38,5.215,0.86,Gandhinagar seasonal
+2024-07-11,1.27,4.9186,0.99,Gandhinagar seasonal
+2024-07-12,3.18,4.5108,0.85,Gandhinagar seasonal
+2024-07-13,1.07,5.1185,1.12,Gandhinagar seasonal
+2024-07-14,1.46,6.0269,1.21,Gandhinagar seasonal
+2024-07-15,33.74,3.1454,0.71,Gandhinagar seasonal
+2024-07-16,11.55,4.7134,0.79,Gandhinagar seasonal
+2024-07-17,2.56,4.1935,0.99,Gandhinagar seasonal
+2024-07-18,0.37,5.4415,0.75,Gandhinagar seasonal
+2024-07-19,0.12,4.5912,0.75,Gandhinagar seasonal
+2024-07-20,0.53,5.1173,0.92,Gandhinagar seasonal
+2024-07-21,1.34,4.891,0.91,Gandhinagar seasonal
+2024-07-22,6.03,4.752,0.86,Gandhinagar seasonal
+2024-07-23,7.15,3.9842,0.63,Gandhinagar seasonal
+2024-07-24,32.62,3.4015,1.26,Gandhinagar seasonal
+2024-07-25,26.4,3.1603,1.5,Gandhinagar seasonal
+2024-07-26,6.85,3.0346,1.43,Gandhinagar seasonal
+2024-07-27,5.78,1.9349,1.99,Gandhinagar seasonal
+2024-07-28,5.63,3.3026,1.51,Gandhinagar seasonal
+2024-07-29,17.79,1.0829,0.85,Gandhinagar seasonal
+2024-07-30,4.05,3.4342,0.73,Gandhinagar seasonal
+2024-07-31,4.55,3.8498,0.94,Gandhinagar seasonal
+2024-08-01,9.61,2.9904,1.59,Gandhinagar seasonal
+2024-08-02,8.82,1.9267,1.14,Gandhinagar seasonal
+2024-08-03,13.03,2.7766,1.43,Gandhinagar seasonal
+2024-08-04,10.38,2.6304,1.81,Gandhinagar seasonal
+2024-08-05,5.08,3.1097,1.31,Gandhinagar seasonal
+2024-08-06,1.5,2.8814,1.15,Gandhinagar seasonal
+2024-08-07,0.34,2.7871,2.01,Gandhinagar seasonal
+2024-08-08,7.36,4.0238,1.46,Gandhinagar seasonal
+2024-08-09,6.59,3.0662,1.16,Gandhinagar seasonal
+2024-08-10,9.1,3.257,1.12,Gandhinagar seasonal
+2024-08-11,9.99,2.6287,1.09,Gandhinagar seasonal
+2024-08-12,8.25,2.5937,1.97,Gandhinagar seasonal
+2024-08-13,0.98,4.5487,1.68,Gandhinagar seasonal
+2024-08-14,1.7,4.7249,0.7,Gandhinagar seasonal
+2024-08-15,0.5,3.6158,1.14,Gandhinagar seasonal
+2024-08-16,2.48,3.9586,1.28,Gandhinagar seasonal
+2024-08-17,1.14,5.4115,0.86,Gandhinagar seasonal
+2024-08-18,0.19,5.2786,0.92,Gandhinagar seasonal
+2024-08-19,0.03,5.9311,0.79,Gandhinagar seasonal
+2024-08-20,1.75,5.4089,0.59,Gandhinagar seasonal
+2024-08-21,4.38,4.8214,0.66,Gandhinagar seasonal
+2024-08-22,2.58,4.1532,0.72,Gandhinagar seasonal
+2024-08-23,17.53,2.8042,1.21,Gandhinagar seasonal
+2024-08-24,45.03,2.8586,1.18,Gandhinagar seasonal
+2024-08-25,39.88,2.8541,0.69,Gandhinagar seasonal
+2024-08-26,134.15,2.754,0.78,Gandhinagar seasonal
+2024-08-27,62.66,1.4304,0.87,Gandhinagar seasonal
+2024-08-28,10.19,2.7936,0.67,Gandhinagar seasonal
+2024-08-29,15.18,3.6528,0.51,Gandhinagar seasonal
+2024-08-30,1.85,5.4125,0.46,Gandhinagar seasonal
+2024-08-31,0.07,6.2486,0.6,Gandhinagar seasonal
+2024-09-01,0.03,5.3546,0.7,Gandhinagar seasonal
+2024-09-02,51.33,2.7521,0.82,Gandhinagar seasonal
+2024-09-03,11.4,2.3906,0.77,Gandhinagar seasonal
+2024-09-04,4.24,3.3262,0.79,Gandhinagar seasonal
+2024-09-05,28.1,1.6589,0.76,Gandhinagar seasonal
+2024-09-06,5.12,4.6322,0.73,Gandhinagar seasonal
+2024-09-07,0.61,5.3069,0.7,Gandhinagar seasonal
+2024-09-08,0.03,3.3737,0.82,Gandhinagar seasonal
+2024-09-09,0.92,5.2675,0.45,Gandhinagar seasonal
+2024-09-10,6.04,3.2921,0.82,Gandhinagar seasonal
+2024-09-11,2.31,3.3072,0.75,Gandhinagar seasonal
+2024-09-12,0.17,4.17,0.74,Gandhinagar seasonal
+2024-09-13,2.11,4.1904,0.74,Gandhinagar seasonal
+2024-09-14,8.28,5.1749,0.56,Gandhinagar seasonal
+2024-09-15,1.82,5.5956,0.46,Gandhinagar seasonal
+2024-09-16,0.01,6.1445,0.43,Gandhinagar seasonal
+2024-09-17,0.0,6.1759,0.43,Gandhinagar seasonal
+2024-09-18,0.0,5.5325,0.45,Gandhinagar seasonal
+2024-09-19,0.0,5.9261,0.5,Gandhinagar seasonal
+2024-09-20,0.08,5.2488,0.4,Gandhinagar seasonal
+2024-09-21,0.03,5.1442,0.56,Gandhinagar seasonal
+2024-09-22,0.02,5.5579,0.48,Gandhinagar seasonal
+2024-09-23,0.98,5.7634,0.43,Gandhinagar seasonal
+2024-09-24,2.16,5.3796,0.56,Gandhinagar seasonal
+2024-09-25,8.33,4.746,0.66,Gandhinagar seasonal
+2024-09-26,20.09,3.8014,0.64,Gandhinagar seasonal
+2024-09-27,15.93,3.4946,0.77,Gandhinagar seasonal
+2024-09-28,7.01,3.4066,0.59,Gandhinagar seasonal
+2024-09-29,29.42,3.3977,0.62,Gandhinagar seasonal
+2024-09-30,8.19,4.8554,0.65,Gandhinagar seasonal
+2024-10-01,0.02,5.8778,0.41,Gandhinagar seasonal
+2024-10-02,0.0,5.9268,0.34,Gandhinagar seasonal
+2024-10-03,0.0,6.2242,0.25,Gandhinagar seasonal
+2024-10-04,0.0,5.5207,0.28,Gandhinagar seasonal
+2024-10-05,0.0,5.7178,0.39,Gandhinagar seasonal
+2024-10-06,0.0,5.8015,0.41,Gandhinagar seasonal
+2024-10-07,0.0,5.9383,0.37,Gandhinagar seasonal
+2024-10-08,0.0,5.676,0.47,Gandhinagar seasonal
+2024-10-09,0.15,5.6304,0.45,Gandhinagar seasonal
+2024-10-10,0.15,2.5582,0.88,Gandhinagar seasonal
+2024-10-11,0.38,2.2027,0.89,Gandhinagar seasonal
+2024-10-12,6.7,2.7838,0.61,Gandhinagar seasonal
+2024-10-13,3.93,4.3714,0.7,Gandhinagar seasonal
+2024-10-14,0.11,4.4314,0.68,Gandhinagar seasonal
+2024-10-15,0.13,4.7126,0.64,Gandhinagar seasonal
+2024-10-16,0.01,5.4802,0.4,Gandhinagar seasonal
+2024-10-17,0.1,5.3914,0.38,Gandhinagar seasonal
+2024-10-18,0.4,5.148,0.42,Gandhinagar seasonal
+2024-10-19,5.22,4.8259,0.52,Gandhinagar seasonal
+2024-10-20,1.06,4.9985,0.59,Gandhinagar seasonal
+2024-10-21,1.55,4.5984,0.7,Gandhinagar seasonal
+2024-10-22,0.45,4.758,0.94,Gandhinagar seasonal
+2024-10-23,0.0,4.8578,0.83,Gandhinagar seasonal
+2024-10-24,0.0,5.1737,0.41,Gandhinagar seasonal
+2024-10-25,0.0,5.3342,0.34,Gandhinagar seasonal
+2024-10-26,0.0,5.3923,0.33,Gandhinagar seasonal
+2024-10-27,0.0,5.3196,0.34,Gandhinagar seasonal
+2024-10-28,0.0,5.0575,0.45,Gandhinagar seasonal
+2024-10-29,0.0,5.0254,0.45,Gandhinagar seasonal
+2024-10-30,0.0,5.1986,0.35,Gandhinagar seasonal
+2024-10-31,0.0,5.2099,0.29,Gandhinagar seasonal
+2024-11-01,0.0,5.4012,0.2,Gandhinagar seasonal
+2024-11-02,0.0,5.471,0.17,Gandhinagar seasonal
+2024-11-03,0.0,5.3412,0.2,Gandhinagar seasonal
+2024-11-04,0.0,5.3232,0.19,Gandhinagar seasonal
+2024-11-05,0.0,5.0539,0.3,Gandhinagar seasonal
+2024-11-06,0.0,4.8605,0.38,Gandhinagar seasonal
+2024-11-07,0.0,4.884,0.35,Gandhinagar seasonal
+2024-11-08,0.0,5.0892,0.25,Gandhinagar seasonal
+2024-11-09,0.0,5.0225,0.25,Gandhinagar seasonal
+2024-11-10,0.0,5.0671,0.25,Gandhinagar seasonal
+2024-11-11,0.0,4.7506,0.38,Gandhinagar seasonal
+2024-11-12,0.0,4.6637,0.42,Gandhinagar seasonal
+2024-11-13,0.0,4.5108,0.5,Gandhinagar seasonal
+2024-11-14,0.0,4.357,0.59,Gandhinagar seasonal
+2024-11-15,0.0,4.4158,0.56,Gandhinagar seasonal
+2024-11-16,0.0,4.4326,0.53,Gandhinagar seasonal
+2024-11-17,0.0,4.5379,0.45,Gandhinagar seasonal
+2024-11-18,0.0,4.5578,0.41,Gandhinagar seasonal
+2024-11-19,0.0,4.5149,0.4,Gandhinagar seasonal
+2024-11-20,0.0,4.6488,0.33,Gandhinagar seasonal
+2024-11-21,0.0,4.5062,0.43,Gandhinagar seasonal
+2024-11-22,0.0,4.2787,0.53,Gandhinagar seasonal
+2024-11-23,0.0,4.1803,0.55,Gandhinagar seasonal
+2024-11-24,0.0,4.1155,0.58,Gandhinagar seasonal
+2024-11-25,0.0,4.4772,0.41,Gandhinagar seasonal
+2024-11-26,0.0,4.5266,0.33,Gandhinagar seasonal
+2024-11-27,0.0,4.5319,0.3,Gandhinagar seasonal
+2024-11-28,0.0,4.5101,0.3,Gandhinagar seasonal
+2024-11-29,0.0,4.4383,0.33,Gandhinagar seasonal
+2024-11-30,0.0,4.4006,0.35,Gandhinagar seasonal
+2024-12-01,0.0,4.3826,0.38,Gandhinagar seasonal
+2024-12-02,0.0,4.2646,0.39,Gandhinagar seasonal
+2024-12-03,0.0,4.1674,0.41,Gandhinagar seasonal
+2024-12-04,0.0,4.121,0.37,Gandhinagar seasonal
+2024-12-05,0.0,4.4318,0.25,Gandhinagar seasonal
+2024-12-06,0.0,4.3452,0.2,Gandhinagar seasonal
+2024-12-07,0.0,4.5977,0.19,Gandhinagar seasonal
+2024-12-08,0.0,4.891,0.13,Gandhinagar seasonal
+2024-12-09,0.0,4.8588,0.15,Gandhinagar seasonal
+2024-12-10,0.0,4.6368,0.22,Gandhinagar seasonal
+2024-12-11,0.0,4.6464,0.2,Gandhinagar seasonal
+2024-12-12,0.0,4.6027,0.22,Gandhinagar seasonal
+2024-12-13,0.0,4.4666,0.24,Gandhinagar seasonal
+2024-12-14,0.0,4.7309,0.18,Gandhinagar seasonal
+2024-12-15,0.0,4.873,0.11,Gandhinagar seasonal
+2024-12-16,0.0,4.8118,0.12,Gandhinagar seasonal
+2024-12-17,0.0,4.6788,0.15,Gandhinagar seasonal
+2024-12-18,0.0,4.3807,0.27,Gandhinagar seasonal
+2024-12-19,0.0,4.1227,0.39,Gandhinagar seasonal
+2024-12-20,0.0,3.9137,0.51,Gandhinagar seasonal
+2024-12-21,0.0,3.8834,0.56,Gandhinagar seasonal
+2024-12-22,0.0,2.8361,1.14,Gandhinagar seasonal
+2024-12-23,0.0,2.5987,1.97,Gandhinagar seasonal
+2024-12-24,0.0,3.3713,0.97,Gandhinagar seasonal
+2024-12-25,0.0,2.6215,1.62,Gandhinagar seasonal
+2024-12-26,0.03,2.0534,2.4,Gandhinagar seasonal
+2024-12-27,0.15,1.9452,2.0,Gandhinagar seasonal
+2024-12-28,0.0,2.9218,1.13,Gandhinagar seasonal
+2024-12-29,0.0,3.7903,0.6,Gandhinagar seasonal
+2024-12-30,0.0,4.2526,0.39,Gandhinagar seasonal
+2024-12-31,0.0,4.2893,0.35,Gandhinagar seasonal
+2024-01-01,0.0,2.0052,0.9,Delhi
+2024-01-02,0.0,2.4362,0.63,Delhi
+2024-01-03,0.0,1.1086,1.33,Delhi
+2024-01-04,0.0,0.5794,2.04,Delhi
+2024-01-05,0.0,0.6936,1.62,Delhi
+2024-01-06,0.0,1.3721,1.2,Delhi
+2024-01-07,0.0,1.8859,0.95,Delhi
+2024-01-08,0.0,1.4551,1.18,Delhi
+2024-01-09,0.44,0.9569,1.51,Delhi
+2024-01-10,0.0,2.8865,0.51,Delhi
+2024-01-11,0.0,3.247,0.49,Delhi
+2024-01-12,0.0,3.2042,0.38,Delhi
+2024-01-13,0.0,2.4214,0.21,Delhi
+2024-01-14,0.0,2.5723,0.37,Delhi
+2024-01-15,0.0,3.2585,0.51,Delhi
+2024-01-16,0.0,1.686,0.7,Delhi
+2024-01-17,0.0,2.7955,0.79,Delhi
+2024-01-18,0.0,2.0148,0.7,Delhi
+2024-01-19,0.0,1.1033,1.17,Delhi
+2024-01-20,0.0,2.226,0.97,Delhi
+2024-01-21,0.0,2.4955,0.69,Delhi
+2024-01-22,0.0,2.6933,0.66,Delhi
+2024-01-23,0.0,2.2296,0.6,Delhi
+2024-01-24,0.0,2.394,0.81,Delhi
+2024-01-25,0.0,2.3774,0.99,Delhi
+2024-01-26,0.0,2.7799,0.8,Delhi
+2024-01-27,0.0,4.045,0.41,Delhi
+2024-01-28,0.0,1.8422,0.42,Delhi
+2024-01-29,0.0,3.0454,0.79,Delhi
+2024-01-30,0.0,1.9082,1.33,Delhi
+2024-01-31,1.99,1.6234,1.38,Delhi
+2024-02-01,16.76,2.2442,0.94,Delhi
+2024-02-02,0.03,3.5004,0.58,Delhi
+2024-02-03,0.38,3.1481,0.47,Delhi
+2024-02-04,3.03,1.7863,0.48,Delhi
+2024-02-05,0.1,3.0072,0.45,Delhi
+2024-02-06,0.0,4.5958,0.37,Delhi
+2024-02-07,0.0,4.0034,0.39,Delhi
+2024-02-08,0.0,4.7719,0.15,Delhi
+2024-02-09,0.0,5.1379,0.19,Delhi
+2024-02-10,0.0,4.7323,0.34,Delhi
+2024-02-11,0.0,4.3337,0.54,Delhi
+2024-02-12,0.0,3.0341,0.74,Delhi
+2024-02-13,0.0,2.8493,0.91,Delhi
+2024-02-14,0.0,3.937,0.87,Delhi
+2024-02-15,0.0,4.4138,0.62,Delhi
+2024-02-16,0.0,4.7198,0.5,Delhi
+2024-02-17,0.0,5.0522,0.34,Delhi
+2024-02-18,0.0,4.3495,0.39,Delhi
+2024-02-19,0.02,3.9574,0.48,Delhi
+2024-02-20,1.39,3.829,0.69,Delhi
+2024-02-21,0.0,4.3915,0.84,Delhi
+2024-02-22,0.0,5.0422,0.53,Delhi
+2024-02-23,0.0,5.5123,0.31,Delhi
+2024-02-24,0.0,4.6171,0.44,Delhi
+2024-02-25,0.0,4.4786,0.5,Delhi
+2024-02-26,0.0,3.4879,0.7,Delhi
+2024-02-27,0.23,4.1297,0.73,Delhi
+2024-02-28,0.01,5.5913,0.33,Delhi
+2024-02-29,0.0,5.8231,0.22,Delhi
+2024-03-01,2.54,4.3296,0.55,Delhi
+2024-03-02,5.24,3.8201,0.74,Delhi
+2024-03-03,7.7,3.5143,0.45,Delhi
+2024-03-04,0.05,5.9338,0.29,Delhi
+2024-03-05,0.0,5.693,0.33,Delhi
+2024-03-06,0.0,5.0203,0.32,Delhi
+2024-03-07,0.0,5.7667,0.31,Delhi
+2024-03-08,0.0,5.6414,0.33,Delhi
+2024-03-09,0.0,6.1224,0.29,Delhi
+2024-03-10,0.0,5.1715,0.29,Delhi
+2024-03-11,0.0,5.831,0.38,Delhi
+2024-03-12,0.0,5.6611,0.43,Delhi
+2024-03-13,0.02,5.4324,0.46,Delhi
+2024-03-14,0.0,5.7254,0.48,Delhi
+2024-03-15,0.0,6.3852,0.32,Delhi
+2024-03-16,0.0,5.9074,0.25,Delhi
+2024-03-17,0.0,5.5286,0.29,Delhi
+2024-03-18,0.0,6.4675,0.3,Delhi
+2024-03-19,0.0,6.1963,0.39,Delhi
+2024-03-20,0.0,6.2544,0.39,Delhi
+2024-03-21,0.0,5.7792,0.49,Delhi
+2024-03-22,0.0,6.0862,0.43,Delhi
+2024-03-23,0.0,6.3859,0.35,Delhi
+2024-03-24,0.0,3.4606,0.7,Delhi
+2024-03-25,0.0,6.594,0.34,Delhi
+2024-03-26,0.0,5.328,0.4,Delhi
+2024-03-27,0.0,5.0323,0.46,Delhi
+2024-03-28,0.0,5.4643,0.47,Delhi
+2024-03-29,0.16,5.4079,0.74,Delhi
+2024-03-30,3.52,6.0658,0.39,Delhi
+2024-03-31,0.0,6.528,0.3,Delhi
+2024-04-01,0.0,5.7662,0.38,Delhi
+2024-04-02,0.0,6.6074,0.34,Delhi
+2024-04-03,0.0,5.6837,0.46,Delhi
+2024-04-04,0.0,6.1046,0.54,Delhi
+2024-04-05,0.0,5.0957,0.7,Delhi
+2024-04-06,0.0,6.5352,0.48,Delhi
+2024-04-07,0.0,7.3529,0.23,Delhi
+2024-04-08,0.0,7.0344,0.32,Delhi
+2024-04-09,0.0,5.9117,0.45,Delhi
+2024-04-10,0.0,6.4531,0.77,Delhi
+2024-04-11,0.0,5.7334,0.76,Delhi
+2024-04-12,0.32,5.9354,0.72,Delhi
+2024-04-13,0.0,4.529,1.16,Delhi
+2024-04-14,1.15,3.522,1.12,Delhi
+2024-04-15,1.2,4.2823,0.61,Delhi
+2024-04-16,0.0,6.6828,0.4,Delhi
+2024-04-17,0.0,7.109,0.34,Delhi
+2024-04-18,0.0,6.9857,0.41,Delhi
+2024-04-19,0.0,6.498,0.57,Delhi
+2024-04-20,0.0,6.7788,0.42,Delhi
+2024-04-21,0.0,6.1682,0.49,Delhi
+2024-04-22,0.01,6.7226,0.4,Delhi
+2024-04-23,0.0,6.4805,0.4,Delhi
+2024-04-24,0.82,7.2646,0.35,Delhi
+2024-04-25,0.0,7.3289,0.36,Delhi
+2024-04-26,0.0,6.6386,0.42,Delhi
+2024-04-27,0.5,6.5921,0.42,Delhi
+2024-04-28,0.01,6.3343,0.44,Delhi
+2024-04-29,0.0,6.8345,0.37,Delhi
+2024-04-30,0.0,7.5737,0.36,Delhi
+2024-05-01,0.0,7.1071,0.32,Delhi
+2024-05-02,0.0,7.6896,0.27,Delhi
+2024-05-03,0.0,6.917,0.35,Delhi
+2024-05-04,0.0,6.5542,0.53,Delhi
+2024-05-05,0.0,7.3289,0.43,Delhi
+2024-05-06,0.0,7.0985,0.45,Delhi
+2024-05-07,0.0,6.5952,0.6,Delhi
+2024-05-08,0.0,6.6655,0.62,Delhi
+2024-05-09,0.04,6.8952,0.62,Delhi
+2024-05-10,0.04,6.4706,0.84,Delhi
+2024-05-11,0.36,6.587,0.7,Delhi
+2024-05-12,0.03,6.2839,0.62,Delhi
+2024-05-13,0.02,5.9258,0.86,Delhi
+2024-05-14,0.0,7.0334,0.61,Delhi
+2024-05-15,0.0,7.2552,0.45,Delhi
+2024-05-16,0.0,7.0865,0.56,Delhi
+2024-05-17,0.0,6.7514,0.69,Delhi
+2024-05-18,0.0,6.9924,0.64,Delhi
+2024-05-19,0.0,6.9463,0.58,Delhi
+2024-05-20,0.0,6.8537,0.59,Delhi
+2024-05-21,0.0,7.0322,0.61,Delhi
+2024-05-22,0.0,6.7625,0.63,Delhi
+2024-05-23,0.0,6.7082,0.72,Delhi
+2024-05-24,0.0,6.6965,0.8,Delhi
+2024-05-25,0.0,6.6859,0.73,Delhi
+2024-05-26,0.0,7.5468,0.43,Delhi
+2024-05-27,0.0,7.368,0.47,Delhi
+2024-05-28,0.0,7.8518,0.4,Delhi
+2024-05-29,0.0,7.1544,0.53,Delhi
+2024-05-30,0.0,7.4938,0.47,Delhi
+2024-05-31,0.0,7.3327,0.56,Delhi
+2024-06-01,0.01,5.5327,0.86,Delhi
+2024-06-02,0.0,6.9821,0.72,Delhi
+2024-06-03,0.01,6.8935,0.6,Delhi
+2024-06-04,2.03,6.0439,0.84,Delhi
+2024-06-05,0.13,6.4454,0.61,Delhi
+2024-06-06,1.2,6.9122,0.66,Delhi
+2024-06-07,0.0,6.6312,1.04,Delhi
+2024-06-08,0.0,6.3782,1.03,Delhi
+2024-06-09,0.0,7.3402,0.44,Delhi
+2024-06-10,0.0,6.7651,0.59,Delhi
+2024-06-11,0.0,6.3982,0.76,Delhi
+2024-06-12,0.0,7.247,0.56,Delhi
+2024-06-13,0.0,6.8484,0.91,Delhi
+2024-06-14,0.36,6.606,1.03,Delhi
+2024-06-15,0.0,7.4501,0.49,Delhi
+2024-06-16,0.0,7.32,0.47,Delhi
+2024-06-17,0.0,6.7913,0.71,Delhi
+2024-06-18,0.0,6.8626,0.72,Delhi
+2024-06-19,0.0,6.5772,0.73,Delhi
+2024-06-20,3.09,6.0775,0.92,Delhi
+2024-06-21,0.92,5.0102,1.24,Delhi
+2024-06-22,0.0,4.9565,1.59,Delhi
+2024-06-23,0.69,5.118,1.98,Delhi
+2024-06-24,20.52,4.446,1.75,Delhi
+2024-06-25,0.04,5.1979,1.91,Delhi
+2024-06-26,4.73,4.1546,2.36,Delhi
+2024-06-27,25.97,3.9914,1.82,Delhi
+2024-06-28,2.88,3.1092,1.87,Delhi
+2024-06-29,3.85,3.3689,1.43,Delhi
+2024-06-30,8.37,4.5914,2.08,Delhi
+2024-07-01,3.45,4.1453,2.13,Delhi
+2024-07-02,6.23,2.7682,1.91,Delhi
+2024-07-03,21.94,2.0294,1.86,Delhi
+2024-07-04,9.0,2.7986,1.44,Delhi
+2024-07-05,5.06,3.619,0.99,Delhi
+2024-07-06,18.15,3.3754,1.75,Delhi
+2024-07-07,7.29,4.2502,2.63,Delhi
+2024-07-08,8.59,3.6223,2.44,Delhi
+2024-07-09,4.68,3.8213,1.49,Delhi
+2024-07-10,2.69,3.4006,1.16,Delhi
+2024-07-11,4.47,5.365,1.18,Delhi
+2024-07-12,1.65,3.677,1.81,Delhi
+2024-07-13,1.88,5.0957,0.9,Delhi
+2024-07-14,0.79,6.151,0.97,Delhi
+2024-07-15,2.19,4.4182,1.34,Delhi
+2024-07-16,0.32,5.7718,1.07,Delhi
+2024-07-17,0.76,5.6038,0.77,Delhi
+2024-07-18,5.71,3.9266,1.31,Delhi
+2024-07-19,4.44,3.5263,2.2,Delhi
+2024-07-20,3.43,5.9998,1.22,Delhi
+2024-07-21,1.65,5.0054,1.1,Delhi
+2024-07-22,9.08,3.5302,1.09,Delhi
+2024-07-23,8.25,4.5866,1.77,Delhi
+2024-07-24,18.95,3.9125,1.48,Delhi
+2024-07-25,0.22,4.6171,0.98,Delhi
+2024-07-26,9.92,3.318,1.09,Delhi
+2024-07-27,27.22,5.1545,0.9,Delhi
+2024-07-28,0.05,6.0888,0.69,Delhi
+2024-07-29,0.03,5.8927,0.71,Delhi
+2024-07-30,1.93,6.1906,0.72,Delhi
+2024-07-31,27.93,4.0613,0.81,Delhi
+2024-08-01,41.56,4.5722,1.16,Delhi
+2024-08-02,2.84,4.0054,0.81,Delhi
+2024-08-03,0.04,5.0522,0.73,Delhi
+2024-08-04,0.73,5.263,0.65,Delhi
+2024-08-05,0.43,4.5869,0.51,Delhi
+2024-08-06,3.83,4.9586,0.58,Delhi
+2024-08-07,26.59,2.6407,0.84,Delhi
+2024-08-08,4.73,4.2331,0.81,Delhi
+2024-08-09,4.88,4.5859,0.77,Delhi
+2024-08-10,1.95,3.8791,0.73,Delhi
+2024-08-11,5.43,3.2141,0.68,Delhi
+2024-08-12,34.95,3.8534,0.98,Delhi
+2024-08-13,4.61,4.6968,0.66,Delhi
+2024-08-14,1.43,4.5058,0.82,Delhi
+2024-08-15,1.46,4.4165,0.9,Delhi
+2024-08-16,1.89,4.848,0.99,Delhi
+2024-08-17,5.7,5.1482,0.72,Delhi
+2024-08-18,2.32,4.416,1.03,Delhi
+2024-08-19,4.14,4.1119,1.11,Delhi
+2024-08-20,5.4,3.9494,1.15,Delhi
+2024-08-21,3.54,5.3148,0.84,Delhi
+2024-08-22,1.4,5.3978,0.69,Delhi
+2024-08-23,1.61,3.0641,0.99,Delhi
+2024-08-24,0.76,4.775,0.84,Delhi
+2024-08-25,0.38,5.2565,0.78,Delhi
+2024-08-26,4.69,4.6332,0.63,Delhi
+2024-08-27,2.42,4.8938,0.7,Delhi
+2024-08-28,11.14,4.5396,0.74,Delhi
+2024-08-29,10.13,3.6274,0.65,Delhi
+2024-08-30,2.11,5.9062,0.69,Delhi
+2024-08-31,0.02,5.849,0.74,Delhi
+2024-09-01,0.07,5.5102,0.91,Delhi
+2024-09-02,1.64,4.4071,0.93,Delhi
+2024-09-03,4.15,4.9798,0.83,Delhi
+2024-09-04,10.38,2.7811,1.0,Delhi
+2024-09-05,12.8,4.8204,0.89,Delhi
+2024-09-06,31.62,3.5388,0.97,Delhi
+2024-09-07,9.23,4.0334,0.75,Delhi
+2024-09-08,0.83,2.0954,1.12,Delhi
+2024-09-09,6.63,4.6397,1.19,Delhi
+2024-09-10,8.65,4.4892,1.36,Delhi
+2024-09-11,42.32,3.1966,0.99,Delhi
+2024-09-12,59.31,1.8802,0.82,Delhi
+2024-09-13,28.41,1.7683,0.69,Delhi
+2024-09-14,16.51,3.5424,0.89,Delhi
+2024-09-15,1.03,4.4321,0.86,Delhi
+2024-09-16,0.0,5.2207,0.78,Delhi
+2024-09-17,3.16,4.5737,0.9,Delhi
+2024-09-18,32.63,1.5871,0.76,Delhi
+2024-09-19,1.16,3.5921,0.86,Delhi
+2024-09-20,0.01,5.4283,0.7,Delhi
+2024-09-21,0.0,5.4576,0.73,Delhi
+2024-09-22,0.0,5.3738,0.62,Delhi
+2024-09-23,0.0,5.4022,0.58,Delhi
+2024-09-24,0.14,4.981,0.75,Delhi
+2024-09-25,0.67,3.8654,1.19,Delhi
+2024-09-26,5.19,4.4165,0.88,Delhi
+2024-09-27,1.06,4.4179,0.65,Delhi
+2024-09-28,0.27,4.0512,0.57,Delhi
+2024-09-29,0.0,4.0015,0.7,Delhi
+2024-09-30,0.0,4.7453,0.78,Delhi
+2024-10-01,0.0,5.1468,0.66,Delhi
+2024-10-02,0.0,5.64,0.38,Delhi
+2024-10-03,0.0,5.8001,0.28,Delhi
+2024-10-04,0.05,5.6942,0.29,Delhi
+2024-10-05,0.05,5.4314,0.34,Delhi
+2024-10-06,0.0,5.2092,0.46,Delhi
+2024-10-07,0.0,5.2404,0.53,Delhi
+2024-10-08,0.0,5.0172,0.69,Delhi
+2024-10-09,0.0,4.9322,0.61,Delhi
+2024-10-10,0.0,5.172,0.49,Delhi
+2024-10-11,0.0,5.3902,0.38,Delhi
+2024-10-12,0.0,5.1607,0.48,Delhi
+2024-10-13,0.0,4.6046,0.67,Delhi
+2024-10-14,0.0,4.6848,0.87,Delhi
+2024-10-15,0.01,4.9889,0.56,Delhi
+2024-10-16,0.0,4.3752,0.36,Delhi
+2024-10-17,0.0,4.6193,0.37,Delhi
+2024-10-18,0.0,4.9606,0.4,Delhi
+2024-10-19,0.0,4.9543,0.37,Delhi
+2024-10-20,0.0,4.5816,0.56,Delhi
+2024-10-21,0.05,4.2096,0.85,Delhi
+2024-10-22,0.0,4.0846,0.9,Delhi
+2024-10-23,0.0,3.9871,0.95,Delhi
+2024-10-24,0.0,4.476,0.59,Delhi
+2024-10-25,0.0,4.595,0.42,Delhi
+2024-10-26,0.0,4.7285,0.34,Delhi
+2024-10-27,0.0,4.7846,0.27,Delhi
+2024-10-28,0.0,4.5379,0.39,Delhi
+2024-10-29,0.0,4.4899,0.4,Delhi
+2024-10-30,0.0,4.5672,0.36,Delhi
+2024-10-31,0.0,4.5072,0.36,Delhi
+2024-11-01,0.0,4.3332,0.47,Delhi
+2024-11-02,0.0,4.0375,0.64,Delhi
+2024-11-03,0.0,3.8587,0.74,Delhi
+2024-11-04,0.0,3.4493,0.99,Delhi
+2024-11-05,0.0,3.3622,1.06,Delhi
+2024-11-06,0.0,3.1752,1.15,Delhi
+2024-11-07,0.0,2.9434,1.18,Delhi
+2024-11-08,0.0,3.0682,1.23,Delhi
+2024-11-09,0.0,3.3658,0.96,Delhi
+2024-11-10,0.0,3.0595,1.21,Delhi
+2024-11-11,0.0,3.0391,1.2,Delhi
+2024-11-12,0.0,3.5602,0.7,Delhi
+2024-11-13,0.0,2.4797,0.77,Delhi
+2024-11-14,0.0,3.061,0.73,Delhi
+2024-11-15,0.0,3.4565,0.76,Delhi
+2024-11-16,0.0,3.1747,0.88,Delhi
+2024-11-17,0.0,3.0682,0.84,Delhi
+2024-11-18,0.0,2.2733,1.51,Delhi
+2024-11-19,0.0,2.6321,1.38,Delhi
+2024-11-20,0.0,3.1397,1.03,Delhi
+2024-11-21,0.0,3.3406,0.8,Delhi
+2024-11-22,0.0,2.9786,0.96,Delhi
+2024-11-23,0.0,2.911,0.93,Delhi
+2024-11-24,0.0,3.5671,0.56,Delhi
+2024-11-25,0.0,3.1238,0.67,Delhi
+2024-11-26,0.0,3.4862,0.58,Delhi
+2024-11-27,0.0,3.4126,0.59,Delhi
+2024-11-28,0.0,3.4874,0.55,Delhi
+2024-11-29,0.0,3.3734,0.6,Delhi
+2024-11-30,0.0,3.3274,0.59,Delhi
+2024-12-01,0.0,3.474,0.47,Delhi
+2024-12-02,0.0,3.6542,0.37,Delhi
+2024-12-03,0.0,3.6629,0.33,Delhi
+2024-12-04,0.0,3.8798,0.24,Delhi
+2024-12-05,0.0,4.073,0.18,Delhi
+2024-12-06,0.0,3.8549,0.23,Delhi
+2024-12-07,0.0,3.8304,0.27,Delhi
+2024-12-08,0.03,3.0907,0.35,Delhi
+2024-12-09,0.07,3.317,0.49,Delhi
+2024-12-10,0.0,3.5837,0.45,Delhi
+2024-12-11,0.0,3.8904,0.25,Delhi
+2024-12-12,0.0,3.7884,0.3,Delhi
+2024-12-13,0.0,3.7879,0.3,Delhi
+2024-12-14,0.0,3.997,0.18,Delhi
+2024-12-15,0.0,3.7145,0.25,Delhi
+2024-12-16,0.0,3.4157,0.37,Delhi
+2024-12-17,0.0,3.2525,0.37,Delhi
+2024-12-18,0.0,2.855,0.73,Delhi
+2024-12-19,0.0,2.8308,0.81,Delhi
+2024-12-20,0.0,2.7506,0.94,Delhi
+2024-12-21,0.0,2.8488,0.86,Delhi
+2024-12-22,0.0,2.7989,0.8,Delhi
+2024-12-23,0.1,1.2804,1.95,Delhi
+2024-12-24,0.17,1.3817,2.77,Delhi
+2024-12-25,0.03,1.967,1.96,Delhi
+2024-12-26,0.06,2.3045,1.69,Delhi
+2024-12-27,9.51,0.383,2.48,Delhi
+2024-12-28,6.09,0.4714,1.45,Delhi
+2024-12-29,0.08,1.8948,1.24,Delhi
+2024-12-30,0.0,1.4419,1.11,Delhi
+2024-12-31,0.0,1.7251,0.92,Delhi
+2024-01-01,0.23,4.6512,0.53,Chennai
+2024-01-02,0.04,3.9314,0.79,Chennai
+2024-01-03,1.01,3.6079,0.66,Chennai
+2024-01-04,2.55,2.6138,0.57,Chennai
+2024-01-05,1.07,3.8227,0.39,Chennai
+2024-01-06,2.85,3.348,0.31,Chennai
+2024-01-07,40.16,2.1694,0.68,Chennai
+2024-01-08,8.1,1.7909,0.96,Chennai
+2024-01-09,0.68,4.2118,0.65,Chennai
+2024-01-10,0.02,4.5374,0.57,Chennai
+2024-01-11,0.0,4.8442,0.84,Chennai
+2024-01-12,0.0,4.5238,0.82,Chennai
+2024-01-13,0.0,3.7966,1.23,Chennai
+2024-01-14,0.0,4.4748,0.96,Chennai
+2024-01-15,0.0,4.8821,0.7,Chennai
+2024-01-16,0.0,5.1542,0.49,Chennai
+2024-01-17,0.0,5.7485,0.21,Chennai
+2024-01-18,0.0,5.4931,0.27,Chennai
+2024-01-19,0.01,4.9553,0.47,Chennai
+2024-01-20,0.0,5.4929,0.27,Chennai
+2024-01-21,0.0,5.5097,0.37,Chennai
+2024-01-22,0.0,5.3657,0.41,Chennai
+2024-01-23,0.0,5.303,0.41,Chennai
+2024-01-24,0.0,5.2457,0.42,Chennai
+2024-01-25,0.0,5.2553,0.42,Chennai
+2024-01-26,0.02,4.549,0.39,Chennai
+2024-01-27,0.05,5.0623,0.53,Chennai
+2024-01-28,0.0,4.1525,0.93,Chennai
+2024-01-29,0.0,5.4274,0.48,Chennai
+2024-01-30,0.0,5.5166,0.24,Chennai
+2024-01-31,0.0,5.3822,0.25,Chennai
+2024-02-01,0.02,5.1895,0.41,Chennai
+2024-02-02,0.02,5.4235,0.48,Chennai
+2024-02-03,0.0,5.2013,0.45,Chennai
+2024-02-04,0.0,5.4499,0.42,Chennai
+2024-02-05,0.0,5.3635,0.46,Chennai
+2024-02-06,0.0,5.4413,0.39,Chennai
+2024-02-07,0.0,5.8879,0.25,Chennai
+2024-02-08,0.0,5.4737,0.38,Chennai
+2024-02-09,0.0,5.4874,0.66,Chennai
+2024-02-10,0.0,5.3578,0.73,Chennai
+2024-02-11,0.0,5.7977,0.28,Chennai
+2024-02-12,0.0,5.567,0.18,Chennai
+2024-02-13,0.0,5.6431,0.21,Chennai
+2024-02-14,0.0,5.9551,0.27,Chennai
+2024-02-15,0.0,5.5519,0.31,Chennai
+2024-02-16,0.0,6.0394,0.24,Chennai
+2024-02-17,0.0,5.8577,0.22,Chennai
+2024-02-18,0.0,6.1987,0.24,Chennai
+2024-02-19,0.0,5.9496,0.19,Chennai
+2024-02-20,0.0,5.7682,0.36,Chennai
+2024-02-21,0.0,5.3899,0.58,Chennai
+2024-02-22,0.0,5.6376,0.65,Chennai
+2024-02-23,0.01,5.2942,0.8,Chennai
+2024-02-24,0.0,5.6904,0.64,Chennai
+2024-02-25,0.0,5.8644,0.6,Chennai
+2024-02-26,0.0,5.97,0.35,Chennai
+2024-02-27,0.0,6.2393,0.29,Chennai
+2024-02-28,0.0,6.3362,0.27,Chennai
+2024-02-29,0.0,5.9774,0.31,Chennai
+2024-03-01,0.0,6.1402,0.38,Chennai
+2024-03-02,0.0,5.6287,0.47,Chennai
+2024-03-03,0.0,6.3432,0.36,Chennai
+2024-03-04,0.0,6.0223,0.47,Chennai
+2024-03-05,0.0,5.9621,0.51,Chennai
+2024-03-06,0.0,5.5927,0.46,Chennai
+2024-03-07,0.0,6.0881,0.62,Chennai
+2024-03-08,0.0,6.0298,0.8,Chennai
+2024-03-09,0.0,6.0065,0.67,Chennai
+2024-03-10,0.0,6.0818,0.67,Chennai
+2024-03-11,0.01,5.791,0.6,Chennai
+2024-03-12,0.0,6.0538,0.64,Chennai
+2024-03-13,0.0,5.9412,0.75,Chennai
+2024-03-14,0.0,5.9112,0.93,Chennai
+2024-03-15,0.0,6.036,0.76,Chennai
+2024-03-16,0.0,6.1274,0.52,Chennai
+2024-03-17,0.0,6.4174,0.5,Chennai
+2024-03-18,0.0,6.1483,0.63,Chennai
+2024-03-19,0.0,6.2748,0.54,Chennai
+2024-03-20,0.0,6.3194,0.4,Chennai
+2024-03-21,0.02,6.0902,0.46,Chennai
+2024-03-22,0.0,6.6038,0.37,Chennai
+2024-03-23,0.0,6.684,0.41,Chennai
+2024-03-24,0.0,6.5952,0.37,Chennai
+2024-03-25,0.0,6.4318,0.34,Chennai
+2024-03-26,0.0,6.785,0.35,Chennai
+2024-03-27,0.0,6.9722,0.32,Chennai
+2024-03-28,0.0,6.6161,0.41,Chennai
+2024-03-29,0.0,6.5506,0.42,Chennai
+2024-03-30,0.0,7.2036,0.28,Chennai
+2024-03-31,0.0,6.8434,0.19,Chennai
+2024-04-01,0.0,7.1095,0.32,Chennai
+2024-04-02,0.0,7.0373,0.5,Chennai
+2024-04-03,0.0,7.0596,0.4,Chennai
+2024-04-04,0.0,6.859,0.35,Chennai
+2024-04-05,0.0,6.7822,0.29,Chennai
+2024-04-06,0.0,6.331,0.69,Chennai
+2024-04-07,0.0,6.7332,0.52,Chennai
+2024-04-08,0.0,6.5414,0.38,Chennai
+2024-04-09,0.0,6.6401,0.46,Chennai
+2024-04-10,0.0,6.4754,0.33,Chennai
+2024-04-11,0.03,7.0133,0.21,Chennai
+2024-04-12,0.05,6.8143,0.3,Chennai
+2024-04-13,0.06,6.4764,0.42,Chennai
+2024-04-14,0.04,6.7231,0.37,Chennai
+2024-04-15,0.0,7.0385,0.36,Chennai
+2024-04-16,0.0,6.6106,0.38,Chennai
+2024-04-17,0.0,5.9244,0.65,Chennai
+2024-04-18,0.0,6.1284,0.68,Chennai
+2024-04-19,0.0,6.5784,0.46,Chennai
+2024-04-20,0.01,6.3914,0.39,Chennai
+2024-04-21,0.01,6.6792,0.42,Chennai
+2024-04-22,0.0,7.1558,0.38,Chennai
+2024-04-23,0.0,7.0027,0.31,Chennai
+2024-04-24,0.0,6.9036,0.37,Chennai
+2024-04-25,0.0,6.8124,0.42,Chennai
+2024-04-26,0.0,6.8215,0.38,Chennai
+2024-04-27,0.0,7.1767,0.26,Chennai
+2024-04-28,0.0,6.9142,0.31,Chennai
+2024-04-29,0.0,7.1813,0.25,Chennai
+2024-04-30,0.0,7.0555,0.26,Chennai
+2024-05-01,0.01,6.8851,0.33,Chennai
+2024-05-02,0.01,6.6012,0.42,Chennai
+2024-05-03,0.03,6.048,0.63,Chennai
+2024-05-04,0.86,6.0665,0.62,Chennai
+2024-05-05,0.29,6.2758,0.62,Chennai
+2024-05-06,0.64,6.3166,0.59,Chennai
+2024-05-07,2.35,6.2993,0.47,Chennai
+2024-05-08,4.73,3.9079,0.59,Chennai
+2024-05-09,0.83,6.1164,0.38,Chennai
+2024-05-10,0.98,6.815,0.24,Chennai
+2024-05-11,0.31,6.8098,0.24,Chennai
+2024-05-12,0.41,6.5928,0.28,Chennai
+2024-05-13,0.64,6.2938,0.38,Chennai
+2024-05-14,0.59,6.0576,0.41,Chennai
+2024-05-15,0.4,4.9944,0.35,Chennai
+2024-05-16,7.7,1.296,0.17,Chennai
+2024-05-17,2.99,4.3469,0.09,Chennai
+2024-05-18,1.74,6.6574,0.1,Chennai
+2024-05-19,2.76,6.3744,0.11,Chennai
+2024-05-20,4.13,5.6995,0.09,Chennai
+2024-05-21,1.98,4.6157,0.15,Chennai
+2024-05-22,0.73,6.073,0.15,Chennai
+2024-05-23,0.34,6.4138,0.26,Chennai
+2024-05-24,0.03,6.1128,0.42,Chennai
+2024-05-25,1.18,2.5901,0.97,Chennai
+2024-05-26,0.05,4.2674,1.36,Chennai
+2024-05-27,0.01,4.5782,1.29,Chennai
+2024-05-28,0.01,5.581,0.81,Chennai
+2024-05-29,0.01,5.3611,0.68,Chennai
+2024-05-30,0.26,6.2376,0.6,Chennai
+2024-05-31,0.29,6.203,0.58,Chennai
+2024-06-01,6.81,5.9722,0.7,Chennai
+2024-06-02,12.36,5.6275,0.94,Chennai
+2024-06-03,1.7,2.6659,0.94,Chennai
+2024-06-04,5.73,5.653,0.76,Chennai
+2024-06-05,22.77,5.0304,0.57,Chennai
+2024-06-06,13.65,4.4136,0.6,Chennai
+2024-06-07,11.92,4.0884,0.67,Chennai
+2024-06-08,4.97,4.7734,0.4,Chennai
+2024-06-09,2.93,4.9334,0.44,Chennai
+2024-06-10,1.81,6.114,0.55,Chennai
+2024-06-11,4.55,4.7486,0.73,Chennai
+2024-06-12,6.39,3.0571,0.78,Chennai
+2024-06-13,1.3,5.5495,0.69,Chennai
+2024-06-14,0.07,5.6914,0.58,Chennai
+2024-06-15,0.96,3.0799,0.72,Chennai
+2024-06-16,6.97,6.1339,0.84,Chennai
+2024-06-17,13.08,6.3166,0.43,Chennai
+2024-06-18,36.01,5.2128,0.33,Chennai
+2024-06-19,5.54,5.7593,0.48,Chennai
+2024-06-20,2.52,5.8538,0.55,Chennai
+2024-06-21,4.92,5.899,0.65,Chennai
+2024-06-22,3.38,5.1559,0.63,Chennai
+2024-06-23,2.96,6.4406,0.42,Chennai
+2024-06-24,1.01,5.6304,0.41,Chennai
+2024-06-25,0.63,5.969,0.49,Chennai
+2024-06-26,0.66,2.8013,0.63,Chennai
+2024-06-27,0.07,2.6458,0.48,Chennai
+2024-06-28,0.0,5.4259,0.55,Chennai
+2024-06-29,0.04,4.7441,0.77,Chennai
+2024-06-30,17.07,1.8684,0.81,Chennai
+2024-07-01,2.41,3.1111,0.58,Chennai
+2024-07-02,0.89,5.9918,0.53,Chennai
+2024-07-03,19.5,5.7871,0.49,Chennai
+2024-07-04,2.61,4.1693,0.67,Chennai
+2024-07-05,22.96,5.6026,0.59,Chennai
+2024-07-06,9.82,3.0943,0.76,Chennai
+2024-07-07,11.48,4.9855,1.18,Chennai
+2024-07-08,2.77,4.788,0.84,Chennai
+2024-07-09,3.48,4.4225,0.59,Chennai
+2024-07-10,4.31,6.1382,0.36,Chennai
+2024-07-11,17.07,2.8543,0.37,Chennai
+2024-07-12,29.31,6.2928,0.48,Chennai
+2024-07-13,8.48,3.1337,0.76,Chennai
+2024-07-14,7.89,2.1631,0.77,Chennai
+2024-07-15,5.31,2.7516,0.61,Chennai
+2024-07-16,1.88,3.8328,0.65,Chennai
+2024-07-17,1.21,4.0046,1.01,Chennai
+2024-07-18,4.56,2.7134,0.79,Chennai
+2024-07-19,0.46,3.2107,0.74,Chennai
+2024-07-20,0.36,3.4639,0.74,Chennai
+2024-07-21,0.18,4.0058,0.43,Chennai
+2024-07-22,0.02,3.7819,0.76,Chennai
+2024-07-23,0.66,5.4528,0.62,Chennai
+2024-07-24,0.27,4.9025,0.67,Chennai
+2024-07-25,0.05,5.1185,0.54,Chennai
+2024-07-26,0.47,3.7944,0.61,Chennai
+2024-07-27,0.02,4.2907,1.15,Chennai
+2024-07-28,0.01,4.704,0.89,Chennai
+2024-07-29,1.08,4.746,0.75,Chennai
+2024-07-30,3.44,5.1276,0.54,Chennai
+2024-07-31,0.93,5.6263,0.51,Chennai
+2024-08-01,1.33,3.9869,0.53,Chennai
+2024-08-02,3.04,3.2453,0.71,Chennai
+2024-08-03,4.58,6.0499,0.5,Chennai
+2024-08-04,14.82,6.467,0.35,Chennai
+2024-08-05,15.59,3.0377,0.44,Chennai
+2024-08-06,25.91,5.1504,0.62,Chennai
+2024-08-07,9.33,2.6918,0.61,Chennai
+2024-08-08,12.35,5.7113,0.83,Chennai
+2024-08-09,10.74,6.0199,0.72,Chennai
+2024-08-10,11.65,4.9229,0.53,Chennai
+2024-08-11,19.28,6.2916,0.47,Chennai
+2024-08-12,16.13,5.8867,0.62,Chennai
+2024-08-13,0.35,6.2455,0.51,Chennai
+2024-08-14,0.63,6.5628,0.21,Chennai
+2024-08-15,0.6,5.9522,0.15,Chennai
+2024-08-16,0.24,5.6777,0.23,Chennai
+2024-08-17,0.94,6.0187,0.28,Chennai
+2024-08-18,1.34,6.6185,0.24,Chennai
+2024-08-19,0.21,5.281,0.27,Chennai
+2024-08-20,1.12,5.3573,0.41,Chennai
+2024-08-21,0.49,6.2537,0.32,Chennai
+2024-08-22,0.04,5.3849,0.48,Chennai
+2024-08-23,0.03,5.8286,0.44,Chennai
+2024-08-24,0.06,4.8029,0.51,Chennai
+2024-08-25,0.05,6.1042,0.46,Chennai
+2024-08-26,0.05,5.5286,0.32,Chennai
+2024-08-27,2.37,3.9355,0.37,Chennai
+2024-08-28,1.33,1.885,0.39,Chennai
+2024-08-29,1.95,2.5296,0.45,Chennai
+2024-08-30,12.54,2.0376,0.81,Chennai
+2024-08-31,4.11,2.515,0.52,Chennai
+2024-09-01,0.87,4.8106,0.51,Chennai
+2024-09-02,8.19,5.5063,0.58,Chennai
+2024-09-03,5.58,3.6943,0.64,Chennai
+2024-09-04,1.23,2.8469,0.64,Chennai
+2024-09-05,3.24,4.4496,0.58,Chennai
+2024-09-06,3.45,3.2398,0.67,Chennai
+2024-09-07,0.82,3.0461,0.67,Chennai
+2024-09-08,0.16,2.6882,0.82,Chennai
+2024-09-09,0.95,3.079,0.54,Chennai
+2024-09-10,0.04,5.8522,0.37,Chennai
+2024-09-11,0.04,5.6136,0.32,Chennai
+2024-09-12,0.01,6.281,0.35,Chennai
+2024-09-13,0.01,5.9501,0.42,Chennai
+2024-09-14,0.02,5.9026,0.49,Chennai
+2024-09-15,0.01,6.1711,0.41,Chennai
+2024-09-16,0.01,6.0499,0.4,Chennai
+2024-09-17,0.14,6.1133,0.53,Chennai
+2024-09-18,4.48,5.3297,0.64,Chennai
+2024-09-19,0.56,3.3218,0.7,Chennai
+2024-09-20,1.55,5.717,0.81,Chennai
+2024-09-21,5.32,2.73,1.48,Chennai
+2024-09-22,2.59,3.281,0.71,Chennai
+2024-09-23,6.34,4.3932,0.99,Chennai
+2024-09-24,19.09,3.9115,1.08,Chennai
+2024-09-25,23.58,4.6418,0.82,Chennai
+2024-09-26,4.18,3.0283,0.95,Chennai
+2024-09-27,2.41,4.3978,0.64,Chennai
+2024-09-28,3.84,5.8906,0.29,Chennai
+2024-09-29,0.39,6.2026,0.09,Chennai
+2024-09-30,0.21,6.439,0.07,Chennai
+2024-10-01,0.1,6.2302,0.09,Chennai
+2024-10-02,1.93,6.1644,0.2,Chennai
+2024-10-03,7.28,5.2366,0.62,Chennai
+2024-10-04,4.02,5.3904,0.83,Chennai
+2024-10-05,4.03,5.1113,0.76,Chennai
+2024-10-06,1.16,5.1665,0.68,Chennai
+2024-10-07,2.79,5.0786,0.33,Chennai
+2024-10-08,5.44,6.2402,0.13,Chennai
+2024-10-09,7.55,5.7907,0.12,Chennai
+2024-10-10,7.17,3.7231,0.12,Chennai
+2024-10-11,8.53,5.857,0.12,Chennai
+2024-10-12,6.25,5.0626,0.09,Chennai
+2024-10-13,5.78,5.0594,0.15,Chennai
+2024-10-14,43.95,2.1658,0.25,Chennai
+2024-10-15,69.18,1.5209,0.32,Chennai
+2024-10-16,42.95,1.8149,0.26,Chennai
+2024-10-17,6.4,5.2577,0.31,Chennai
+2024-10-18,11.4,5.3825,0.29,Chennai
+2024-10-19,15.22,5.1936,0.17,Chennai
+2024-10-20,4.84,5.4456,0.28,Chennai
+2024-10-21,2.64,5.7674,0.22,Chennai
+2024-10-22,1.8,5.8114,0.39,Chennai
+2024-10-23,1.17,5.1857,0.78,Chennai
+2024-10-24,0.63,3.5436,0.68,Chennai
+2024-10-25,0.45,4.2655,0.84,Chennai
+2024-10-26,0.0,5.0575,0.92,Chennai
+2024-10-27,0.05,5.01,0.69,Chennai
+2024-10-28,0.21,4.9608,0.59,Chennai
+2024-10-29,2.6,4.5355,0.94,Chennai
+2024-10-30,16.49,3.6348,1.44,Chennai
+2024-10-31,8.62,4.4798,0.91,Chennai
+2024-11-01,4.86,4.7578,0.6,Chennai
+2024-11-02,6.99,5.0354,0.3,Chennai
+2024-11-03,4.73,5.5123,0.29,Chennai
+2024-11-04,0.1,5.3966,0.46,Chennai
+2024-11-05,0.34,5.3602,0.51,Chennai
+2024-11-06,9.46,2.7269,0.34,Chennai
+2024-11-07,12.07,4.3939,0.26,Chennai
+2024-11-08,1.3,5.3076,0.17,Chennai
+2024-11-09,0.71,4.895,0.35,Chennai
+2024-11-10,0.21,5.2474,0.3,Chennai
+2024-11-11,4.45,3.0122,0.55,Chennai
+2024-11-12,32.81,0.5179,0.25,Chennai
+2024-11-13,21.94,2.9998,0.23,Chennai
+2024-11-14,19.89,4.7004,0.15,Chennai
+2024-11-15,14.61,4.5298,0.21,Chennai
+2024-11-16,22.68,3.7601,0.61,Chennai
+2024-11-17,2.12,4.5106,0.86,Chennai
+2024-11-18,0.03,4.6531,0.7,Chennai
+2024-11-19,0.02,4.6075,0.49,Chennai
+2024-11-20,0.01,4.5998,0.39,Chennai
+2024-11-21,0.01,4.6315,0.41,Chennai
+2024-11-22,0.07,4.667,0.46,Chennai
+2024-11-23,1.37,3.9847,0.31,Chennai
+2024-11-24,0.5,3.972,0.55,Chennai
+2024-11-25,2.11,2.7487,0.66,Chennai
+2024-11-26,41.96,0.8484,1.0,Chennai
+2024-11-27,2.84,2.1175,0.68,Chennai
+2024-11-28,33.16,1.8048,0.84,Chennai
+2024-11-29,13.71,1.4254,0.39,Chennai
+2024-11-30,128.29,0.5986,0.31,Chennai
+2024-12-01,26.52,2.4487,0.53,Chennai
+2024-12-02,15.65,2.7871,0.97,Chennai
+2024-12-03,3.13,4.391,0.5,Chennai
+2024-12-04,9.92,4.0699,0.29,Chennai
+2024-12-05,3.32,4.8686,0.24,Chennai
+2024-12-06,1.01,5.0678,0.26,Chennai
+2024-12-07,0.12,5.1588,0.2,Chennai
+2024-12-08,0.03,4.717,0.51,Chennai
+2024-12-09,0.11,4.3351,0.59,Chennai
+2024-12-10,0.17,3.5899,0.55,Chennai
+2024-12-11,20.16,1.6128,1.24,Chennai
+2024-12-12,79.36,1.2809,1.36,Chennai
+2024-12-13,1.73,3.5532,0.94,Chennai
+2024-12-14,0.64,4.3793,0.65,Chennai
+2024-12-15,0.26,4.4009,0.68,Chennai
+2024-12-16,4.15,4.8398,0.31,Chennai
+2024-12-17,3.95,1.8137,0.65,Chennai
+2024-12-18,9.15,1.391,0.26,Chennai
+2024-12-19,4.99,2.5253,0.21,Chennai
+2024-12-20,1.4,2.2351,0.27,Chennai
+2024-12-21,0.26,4.1638,0.2,Chennai
+2024-12-22,0.08,4.5161,0.29,Chennai
+2024-12-23,0.4,4.5209,0.38,Chennai
+2024-12-24,4.83,1.68,0.3,Chennai
+2024-12-25,7.4,1.6241,0.24,Chennai
+2024-12-26,11.98,3.7586,0.28,Chennai
+2024-12-27,12.62,4.9354,0.4,Chennai
+2024-12-28,0.23,4.9291,0.34,Chennai
+2024-12-29,1.31,3.9643,0.4,Chennai
+2024-12-30,1.47,4.3704,0.32,Chennai
+2024-12-31,0.0,4.4388,0.4,Chennai
+2024-01-01,0.0,4.0138,0.46,Mumbai IIT Bombay
+2024-01-02,0.0,4.0087,0.59,Mumbai IIT Bombay
+2024-01-03,0.0,3.8227,0.84,Mumbai IIT Bombay
+2024-01-04,0.0,4.2718,0.66,Mumbai IIT Bombay
+2024-01-05,0.0,4.2247,0.67,Mumbai IIT Bombay
+2024-01-06,0.0,3.9379,1.5,Mumbai IIT Bombay
+2024-01-07,0.02,4.1304,0.67,Mumbai IIT Bombay
+2024-01-08,0.05,4.2307,0.44,Mumbai IIT Bombay
+2024-01-09,0.98,3.889,0.64,Mumbai IIT Bombay
+2024-01-10,0.02,3.8714,0.63,Mumbai IIT Bombay
+2024-01-11,0.0,4.3205,0.41,Mumbai IIT Bombay
+2024-01-12,0.0,4.5379,0.4,Mumbai IIT Bombay
+2024-01-13,0.0,4.7647,0.29,Mumbai IIT Bombay
+2024-01-14,0.0,5.0688,0.16,Mumbai IIT Bombay
+2024-01-15,0.0,5.2418,0.11,Mumbai IIT Bombay
+2024-01-16,0.0,5.1665,0.14,Mumbai IIT Bombay
+2024-01-17,0.0,4.6778,0.29,Mumbai IIT Bombay
+2024-01-18,0.0,4.6994,0.38,Mumbai IIT Bombay
+2024-01-19,0.0,4.6332,0.44,Mumbai IIT Bombay
+2024-01-20,0.0,4.6855,0.39,Mumbai IIT Bombay
+2024-01-21,0.0,4.8972,0.35,Mumbai IIT Bombay
+2024-01-22,0.0,4.8559,0.36,Mumbai IIT Bombay
+2024-01-23,0.0,5.2603,0.24,Mumbai IIT Bombay
+2024-01-24,0.0,5.4502,0.18,Mumbai IIT Bombay
+2024-01-25,0.0,5.3225,0.21,Mumbai IIT Bombay
+2024-01-26,0.0,5.1466,0.31,Mumbai IIT Bombay
+2024-01-27,0.0,4.7981,0.48,Mumbai IIT Bombay
+2024-01-28,0.0,4.5804,0.57,Mumbai IIT Bombay
+2024-01-29,0.0,4.7033,0.55,Mumbai IIT Bombay
+2024-01-30,0.0,4.6898,0.51,Mumbai IIT Bombay
+2024-01-31,0.0,5.1074,0.43,Mumbai IIT Bombay
+2024-02-01,0.04,5.2517,0.34,Mumbai IIT Bombay
+2024-02-02,0.0,5.3018,0.39,Mumbai IIT Bombay
+2024-02-03,0.0,5.3796,0.31,Mumbai IIT Bombay
+2024-02-04,0.0,5.1919,0.36,Mumbai IIT Bombay
+2024-02-05,0.0,5.3796,0.33,Mumbai IIT Bombay
+2024-02-06,0.0,5.4574,0.29,Mumbai IIT Bombay
+2024-02-07,0.0,5.453,0.27,Mumbai IIT Bombay
+2024-02-08,0.0,5.5531,0.28,Mumbai IIT Bombay
+2024-02-09,0.0,5.6971,0.22,Mumbai IIT Bombay
+2024-02-10,0.0,5.7324,0.2,Mumbai IIT Bombay
+2024-02-11,0.0,5.6611,0.23,Mumbai IIT Bombay
+2024-02-12,0.0,5.2903,0.33,Mumbai IIT Bombay
+2024-02-13,0.0,5.0071,0.39,Mumbai IIT Bombay
+2024-02-14,0.0,5.2718,0.4,Mumbai IIT Bombay
+2024-02-15,0.0,5.4022,0.46,Mumbai IIT Bombay
+2024-02-16,0.0,5.1804,0.4,Mumbai IIT Bombay
+2024-02-17,0.0,5.4425,0.43,Mumbai IIT Bombay
+2024-02-18,0.0,5.8306,0.36,Mumbai IIT Bombay
+2024-02-19,0.0,6.2023,0.25,Mumbai IIT Bombay
+2024-02-20,0.0,6.2242,0.17,Mumbai IIT Bombay
+2024-02-21,0.0,6.0286,0.2,Mumbai IIT Bombay
+2024-02-22,0.0,5.9412,0.25,Mumbai IIT Bombay
+2024-02-23,0.0,6.3286,0.2,Mumbai IIT Bombay
+2024-02-24,0.0,6.4982,0.17,Mumbai IIT Bombay
+2024-02-25,0.0,6.4517,0.18,Mumbai IIT Bombay
+2024-02-26,0.0,5.3822,0.56,Mumbai IIT Bombay
+2024-02-27,0.01,5.2536,0.82,Mumbai IIT Bombay
+2024-02-28,0.0,5.6023,0.6,Mumbai IIT Bombay
+2024-02-29,0.18,5.9102,0.38,Mumbai IIT Bombay
+2024-03-01,0.95,4.9668,0.55,Mumbai IIT Bombay
+2024-03-02,0.37,5.947,0.4,Mumbai IIT Bombay
+2024-03-03,0.09,6.2352,0.22,Mumbai IIT Bombay
+2024-03-04,0.0,6.835,0.12,Mumbai IIT Bombay
+2024-03-05,0.0,6.9931,0.13,Mumbai IIT Bombay
+2024-03-06,0.0,6.876,0.18,Mumbai IIT Bombay
+2024-03-07,0.0,6.594,0.22,Mumbai IIT Bombay
+2024-03-08,0.0,6.6638,0.21,Mumbai IIT Bombay
+2024-03-09,0.0,6.7109,0.2,Mumbai IIT Bombay
+2024-03-10,0.0,6.7891,0.21,Mumbai IIT Bombay
+2024-03-11,0.02,6.4834,0.25,Mumbai IIT Bombay
+2024-03-12,0.03,6.5546,0.22,Mumbai IIT Bombay
+2024-03-13,0.0,6.6012,0.24,Mumbai IIT Bombay
+2024-03-14,0.0,6.6703,0.23,Mumbai IIT Bombay
+2024-03-15,0.0,6.9338,0.21,Mumbai IIT Bombay
+2024-03-16,0.0,6.6787,0.27,Mumbai IIT Bombay
+2024-03-17,0.0,6.7219,0.34,Mumbai IIT Bombay
+2024-03-18,0.0,6.6629,0.34,Mumbai IIT Bombay
+2024-03-19,0.08,6.8398,0.26,Mumbai IIT Bombay
+2024-03-20,0.02,7.0534,0.2,Mumbai IIT Bombay
+2024-03-21,0.01,6.6984,0.31,Mumbai IIT Bombay
+2024-03-22,0.1,6.516,0.4,Mumbai IIT Bombay
+2024-03-23,0.02,6.5407,0.45,Mumbai IIT Bombay
+2024-03-24,0.0,6.534,0.45,Mumbai IIT Bombay
+2024-03-25,0.01,6.6271,0.38,Mumbai IIT Bombay
+2024-03-26,0.02,6.5479,0.42,Mumbai IIT Bombay
+2024-03-27,0.06,6.1385,0.63,Mumbai IIT Bombay
+2024-03-28,0.03,5.4785,0.76,Mumbai IIT Bombay
+2024-03-29,0.25,5.4902,0.92,Mumbai IIT Bombay
+2024-03-30,0.01,5.6674,0.89,Mumbai IIT Bombay
+2024-03-31,0.01,6.2126,0.73,Mumbai IIT Bombay
+2024-04-01,0.0,6.3586,0.47,Mumbai IIT Bombay
+2024-04-02,0.0,6.9055,0.37,Mumbai IIT Bombay
+2024-04-03,0.0,6.6816,0.42,Mumbai IIT Bombay
+2024-04-04,0.0,6.4361,0.43,Mumbai IIT Bombay
+2024-04-05,0.19,6.851,0.39,Mumbai IIT Bombay
+2024-04-06,0.43,6.8006,0.39,Mumbai IIT Bombay
+2024-04-07,0.0,7.0128,0.33,Mumbai IIT Bombay
+2024-04-08,0.0,7.1599,0.24,Mumbai IIT Bombay
+2024-04-09,0.01,6.9144,0.33,Mumbai IIT Bombay
+2024-04-10,0.01,6.7418,0.38,Mumbai IIT Bombay
+2024-04-11,0.01,6.5815,0.6,Mumbai IIT Bombay
+2024-04-12,0.01,6.7584,0.56,Mumbai IIT Bombay
+2024-04-13,0.0,7.1414,0.35,Mumbai IIT Bombay
+2024-04-14,0.02,6.9634,0.29,Mumbai IIT Bombay
+2024-04-15,0.02,6.6984,0.46,Mumbai IIT Bombay
+2024-04-16,0.02,6.1555,0.58,Mumbai IIT Bombay
+2024-04-17,0.01,5.8414,0.7,Mumbai IIT Bombay
+2024-04-18,0.07,6.3838,0.59,Mumbai IIT Bombay
+2024-04-19,0.05,6.2894,0.64,Mumbai IIT Bombay
+2024-04-20,0.31,6.1212,0.71,Mumbai IIT Bombay
+2024-04-21,0.77,5.8769,0.8,Mumbai IIT Bombay
+2024-04-22,0.16,5.8745,0.65,Mumbai IIT Bombay
+2024-04-23,0.0,6.8928,0.47,Mumbai IIT Bombay
+2024-04-24,0.33,6.7157,0.55,Mumbai IIT Bombay
+2024-04-25,0.21,6.5162,0.61,Mumbai IIT Bombay
+2024-04-26,0.41,6.3101,0.68,Mumbai IIT Bombay
+2024-04-27,0.22,6.3132,0.75,Mumbai IIT Bombay
+2024-04-28,0.03,6.2873,0.67,Mumbai IIT Bombay
+2024-04-29,0.01,6.7066,0.48,Mumbai IIT Bombay
+2024-04-30,0.03,7.2024,0.32,Mumbai IIT Bombay
+2024-05-01,0.0,7.6925,0.24,Mumbai IIT Bombay
+2024-05-02,0.0,7.7453,0.21,Mumbai IIT Bombay
+2024-05-03,0.0,7.6591,0.24,Mumbai IIT Bombay
+2024-05-04,0.01,7.4705,0.23,Mumbai IIT Bombay
+2024-05-05,0.04,7.5629,0.23,Mumbai IIT Bombay
+2024-05-06,0.07,7.4885,0.2,Mumbai IIT Bombay
+2024-05-07,0.06,7.339,0.18,Mumbai IIT Bombay
+2024-05-08,0.12,7.3862,0.25,Mumbai IIT Bombay
+2024-05-09,0.1,7.1155,0.39,Mumbai IIT Bombay
+2024-05-10,1.41,6.5755,0.82,Mumbai IIT Bombay
+2024-05-11,4.43,6.2851,1.05,Mumbai IIT Bombay
+2024-05-12,7.3,6.5081,1.0,Mumbai IIT Bombay
+2024-05-13,3.05,6.1572,0.62,Mumbai IIT Bombay
+2024-05-14,5.09,6.8009,0.46,Mumbai IIT Bombay
+2024-05-15,8.77,7.1657,0.52,Mumbai IIT Bombay
+2024-05-16,2.38,6.6655,0.69,Mumbai IIT Bombay
+2024-05-17,1.55,6.4462,0.79,Mumbai IIT Bombay
+2024-05-18,0.71,6.4162,0.85,Mumbai IIT Bombay
+2024-05-19,0.86,6.875,0.62,Mumbai IIT Bombay
+2024-05-20,1.12,6.7034,0.53,Mumbai IIT Bombay
+2024-05-21,0.76,6.9086,0.5,Mumbai IIT Bombay
+2024-05-22,0.82,6.3869,0.6,Mumbai IIT Bombay
+2024-05-23,0.19,6.7954,0.58,Mumbai IIT Bombay
+2024-05-24,0.05,7.0375,0.41,Mumbai IIT Bombay
+2024-05-25,0.13,6.5597,0.44,Mumbai IIT Bombay
+2024-05-26,0.16,6.0626,0.57,Mumbai IIT Bombay
+2024-05-27,0.05,4.5833,0.56,Mumbai IIT Bombay
+2024-05-28,0.07,6.5124,0.45,Mumbai IIT Bombay
+2024-05-29,0.19,6.835,0.48,Mumbai IIT Bombay
+2024-05-30,0.13,6.7901,0.53,Mumbai IIT Bombay
+2024-05-31,0.11,7.0176,0.4,Mumbai IIT Bombay
+2024-06-01,0.23,6.6446,0.4,Mumbai IIT Bombay
+2024-06-02,0.29,6.7378,0.52,Mumbai IIT Bombay
+2024-06-03,5.19,5.4994,0.68,Mumbai IIT Bombay
+2024-06-04,7.05,6.6821,0.59,Mumbai IIT Bombay
+2024-06-05,4.87,7.0262,0.38,Mumbai IIT Bombay
+2024-06-06,2.85,7.079,0.33,Mumbai IIT Bombay
+2024-06-07,2.26,5.8591,0.61,Mumbai IIT Bombay
+2024-06-08,23.64,5.5915,1.04,Mumbai IIT Bombay
+2024-06-09,30.5,3.2659,0.99,Mumbai IIT Bombay
+2024-06-10,20.5,3.8064,1.34,Mumbai IIT Bombay
+2024-06-11,7.2,5.3458,1.03,Mumbai IIT Bombay
+2024-06-12,5.78,6.1586,0.59,Mumbai IIT Bombay
+2024-06-13,15.41,6.0684,0.46,Mumbai IIT Bombay
+2024-06-14,14.07,5.1955,0.38,Mumbai IIT Bombay
+2024-06-15,3.19,6.5527,0.41,Mumbai IIT Bombay
+2024-06-16,2.12,6.4646,0.42,Mumbai IIT Bombay
+2024-06-17,4.3,5.591,0.68,Mumbai IIT Bombay
+2024-06-18,16.5,4.1294,0.58,Mumbai IIT Bombay
+2024-06-19,22.81,3.473,0.56,Mumbai IIT Bombay
+2024-06-20,32.23,2.0419,1.07,Mumbai IIT Bombay
+2024-06-21,16.57,4.999,0.97,Mumbai IIT Bombay
+2024-06-22,12.65,3.7286,0.88,Mumbai IIT Bombay
+2024-06-23,13.84,4.5842,0.91,Mumbai IIT Bombay
+2024-06-24,11.49,3.8021,0.97,Mumbai IIT Bombay
+2024-06-25,4.34,6.1661,0.57,Mumbai IIT Bombay
+2024-06-26,20.03,4.9046,0.45,Mumbai IIT Bombay
+2024-06-27,39.71,5.0105,0.55,Mumbai IIT Bombay
+2024-06-28,42.02,1.7143,0.89,Mumbai IIT Bombay
+2024-06-29,20.19,4.3622,1.13,Mumbai IIT Bombay
+2024-06-30,12.74,2.801,1.0,Mumbai IIT Bombay
+2024-07-01,23.8,4.085,1.05,Mumbai IIT Bombay
+2024-07-02,25.75,3.7085,0.95,Mumbai IIT Bombay
+2024-07-03,6.79,4.4496,0.9,Mumbai IIT Bombay
+2024-07-04,13.04,4.471,1.12,Mumbai IIT Bombay
+2024-07-05,18.03,3.5443,1.26,Mumbai IIT Bombay
+2024-07-06,39.52,2.9218,1.5,Mumbai IIT Bombay
+2024-07-07,58.64,3.0408,1.61,Mumbai IIT Bombay
+2024-07-08,56.74,2.5656,1.27,Mumbai IIT Bombay
+2024-07-09,40.59,3.4462,0.9,Mumbai IIT Bombay
+2024-07-10,13.21,4.6474,0.68,Mumbai IIT Bombay
+2024-07-11,20.43,2.4091,1.18,Mumbai IIT Bombay
+2024-07-12,80.45,2.5207,1.33,Mumbai IIT Bombay
+2024-07-13,92.31,1.1426,1.12,Mumbai IIT Bombay
+2024-07-14,53.06,3.5429,1.22,Mumbai IIT Bombay
+2024-07-15,30.52,2.9328,0.84,Mumbai IIT Bombay
+2024-07-16,9.37,3.2926,0.94,Mumbai IIT Bombay
+2024-07-17,25.98,4.5108,1.01,Mumbai IIT Bombay
+2024-07-18,48.74,2.0256,0.77,Mumbai IIT Bombay
+2024-07-19,43.23,1.7774,0.67,Mumbai IIT Bombay
+2024-07-20,69.62,1.4261,0.53,Mumbai IIT Bombay
+2024-07-21,87.64,1.6202,0.53,Mumbai IIT Bombay
+2024-07-22,70.85,1.6692,0.46,Mumbai IIT Bombay
+2024-07-23,61.65,2.3554,0.43,Mumbai IIT Bombay
+2024-07-24,67.36,1.3121,0.47,Mumbai IIT Bombay
+2024-07-25,142.54,1.3968,0.73,Mumbai IIT Bombay
+2024-07-26,21.55,2.5781,1.32,Mumbai IIT Bombay
+2024-07-27,13.78,2.5073,1.54,Mumbai IIT Bombay
+2024-07-28,28.97,1.9656,1.3,Mumbai IIT Bombay
+2024-07-29,41.28,2.2682,0.58,Mumbai IIT Bombay
+2024-07-30,33.89,4.5583,0.9,Mumbai IIT Bombay
+2024-07-31,21.69,5.0359,1.09,Mumbai IIT Bombay
+2024-08-01,28.05,4.4345,1.2,Mumbai IIT Bombay
+2024-08-02,33.26,3.9312,0.92,Mumbai IIT Bombay
+2024-08-03,103.94,1.4203,0.93,Mumbai IIT Bombay
+2024-08-04,41.18,1.8446,1.29,Mumbai IIT Bombay
+2024-08-05,19.7,3.6348,1.72,Mumbai IIT Bombay
+2024-08-06,17.03,2.827,1.62,Mumbai IIT Bombay
+2024-08-07,11.21,3.4721,2.73,Mumbai IIT Bombay
+2024-08-08,8.99,3.3612,2.52,Mumbai IIT Bombay
+2024-08-09,11.6,3.0655,1.13,Mumbai IIT Bombay
+2024-08-10,9.25,4.7942,0.79,Mumbai IIT Bombay
+2024-08-11,8.32,4.8358,0.72,Mumbai IIT Bombay
+2024-08-12,3.94,4.2941,1.02,Mumbai IIT Bombay
+2024-08-13,2.71,4.7066,0.85,Mumbai IIT Bombay
+2024-08-14,1.02,5.2279,0.62,Mumbai IIT Bombay
+2024-08-15,0.64,5.801,0.59,Mumbai IIT Bombay
+2024-08-16,1.28,5.7262,0.76,Mumbai IIT Bombay
+2024-08-17,20.13,5.6002,0.98,Mumbai IIT Bombay
+2024-08-18,42.32,5.5373,1.13,Mumbai IIT Bombay
+2024-08-19,19.39,5.0602,1.24,Mumbai IIT Bombay
+2024-08-20,5.64,3.0598,1.05,Mumbai IIT Bombay
+2024-08-21,2.15,5.3846,0.89,Mumbai IIT Bombay
+2024-08-22,3.98,5.0086,0.79,Mumbai IIT Bombay
+2024-08-23,15.2,2.9498,0.99,Mumbai IIT Bombay
+2024-08-24,67.52,1.0042,1.1,Mumbai IIT Bombay
+2024-08-25,58.74,1.247,0.9,Mumbai IIT Bombay
+2024-08-26,34.42,2.7408,0.83,Mumbai IIT Bombay
+2024-08-27,23.38,4.3051,0.94,Mumbai IIT Bombay
+2024-08-28,15.4,3.6514,0.84,Mumbai IIT Bombay
+2024-08-29,7.8,3.87,0.75,Mumbai IIT Bombay
+2024-08-30,7.34,5.2658,0.78,Mumbai IIT Bombay
+2024-08-31,3.64,5.82,0.76,Mumbai IIT Bombay
+2024-09-01,2.75,4.123,1.04,Mumbai IIT Bombay
+2024-09-02,21.39,2.2375,1.13,Mumbai IIT Bombay
+2024-09-03,13.67,4.0344,0.83,Mumbai IIT Bombay
+2024-09-04,15.46,5.2387,0.89,Mumbai IIT Bombay
+2024-09-05,21.4,4.3351,0.91,Mumbai IIT Bombay
+2024-09-06,14.01,3.8534,1.03,Mumbai IIT Bombay
+2024-09-07,16.13,5.4259,0.93,Mumbai IIT Bombay
+2024-09-08,6.61,6.0778,0.65,Mumbai IIT Bombay
+2024-09-09,9.06,5.435,0.7,Mumbai IIT Bombay
+2024-09-10,8.47,4.9025,0.79,Mumbai IIT Bombay
+2024-09-11,9.33,4.8943,0.95,Mumbai IIT Bombay
+2024-09-12,6.03,4.8425,0.75,Mumbai IIT Bombay
+2024-09-13,2.91,5.7665,0.76,Mumbai IIT Bombay
+2024-09-14,10.11,5.0064,0.64,Mumbai IIT Bombay
+2024-09-15,11.88,4.8857,0.53,Mumbai IIT Bombay
+2024-09-16,3.16,6.2138,0.42,Mumbai IIT Bombay
+2024-09-17,2.3,6.4474,0.37,Mumbai IIT Bombay
+2024-09-18,0.99,6.0948,0.45,Mumbai IIT Bombay
+2024-09-19,0.1,5.4638,0.6,Mumbai IIT Bombay
+2024-09-20,0.29,5.2747,0.64,Mumbai IIT Bombay
+2024-09-21,0.48,5.329,0.82,Mumbai IIT Bombay
+2024-09-22,8.46,5.0081,1.07,Mumbai IIT Bombay
+2024-09-23,22.04,4.2994,1.5,Mumbai IIT Bombay
+2024-09-24,45.96,2.3268,1.69,Mumbai IIT Bombay
+2024-09-25,70.9,3.3259,1.53,Mumbai IIT Bombay
+2024-09-26,74.73,1.4527,1.38,Mumbai IIT Bombay
+2024-09-27,66.92,1.3903,1.01,Mumbai IIT Bombay
+2024-09-28,9.71,2.4756,0.98,Mumbai IIT Bombay
+2024-09-29,4.17,4.399,0.69,Mumbai IIT Bombay
+2024-09-30,1.09,5.8212,0.47,Mumbai IIT Bombay
+2024-10-01,0.5,5.7883,0.67,Mumbai IIT Bombay
+2024-10-02,2.4,5.7912,0.58,Mumbai IIT Bombay
+2024-10-03,1.13,5.6825,0.52,Mumbai IIT Bombay
+2024-10-04,0.18,5.9071,0.36,Mumbai IIT Bombay
+2024-10-05,0.04,6.1874,0.28,Mumbai IIT Bombay
+2024-10-06,6.54,5.754,0.51,Mumbai IIT Bombay
+2024-10-07,0.39,5.5925,0.56,Mumbai IIT Bombay
+2024-10-08,2.08,5.3904,0.62,Mumbai IIT Bombay
+2024-10-09,7.3,1.9471,1.12,Mumbai IIT Bombay
+2024-10-10,43.1,2.681,0.6,Mumbai IIT Bombay
+2024-10-11,34.61,4.4254,0.61,Mumbai IIT Bombay
+2024-10-12,1.62,5.262,0.57,Mumbai IIT Bombay
+2024-10-13,34.7,5.3186,0.56,Mumbai IIT Bombay
+2024-10-14,5.03,5.6671,0.39,Mumbai IIT Bombay
+2024-10-15,9.34,4.9517,0.45,Mumbai IIT Bombay
+2024-10-16,6.89,4.4364,0.57,Mumbai IIT Bombay
+2024-10-17,3.83,2.6911,0.85,Mumbai IIT Bombay
+2024-10-18,6.57,4.4786,0.63,Mumbai IIT Bombay
+2024-10-19,7.19,4.6675,0.52,Mumbai IIT Bombay
+2024-10-20,11.86,5.359,0.48,Mumbai IIT Bombay
+2024-10-21,1.25,4.9999,0.5,Mumbai IIT Bombay
+2024-10-22,4.38,5.4185,0.56,Mumbai IIT Bombay
+2024-10-23,1.97,4.9963,0.59,Mumbai IIT Bombay
+2024-10-24,0.03,4.9255,0.7,Mumbai IIT Bombay
+2024-10-25,0.0,5.2925,0.53,Mumbai IIT Bombay
+2024-10-26,0.0,5.5397,0.37,Mumbai IIT Bombay
+2024-10-27,0.0,5.5925,0.4,Mumbai IIT Bombay
+2024-10-28,0.0,5.574,0.34,Mumbai IIT Bombay
+2024-10-29,0.97,5.2414,0.35,Mumbai IIT Bombay
+2024-10-30,0.84,5.1209,0.4,Mumbai IIT Bombay
+2024-10-31,0.04,5.0652,0.63,Mumbai IIT Bombay
+2024-11-01,0.01,4.8526,0.58,Mumbai IIT Bombay
+2024-11-02,0.0,5.237,0.39,Mumbai IIT Bombay
+2024-11-03,0.0,5.143,0.54,Mumbai IIT Bombay
+2024-11-04,0.0,4.6654,0.74,Mumbai IIT Bombay
+2024-11-05,0.0,4.7064,0.66,Mumbai IIT Bombay
+2024-11-06,0.0,5.1739,0.49,Mumbai IIT Bombay
+2024-11-07,0.0,5.0482,0.56,Mumbai IIT Bombay
+2024-11-08,0.0,4.7426,0.72,Mumbai IIT Bombay
+2024-11-09,0.0,4.4868,0.83,Mumbai IIT Bombay
+2024-11-10,0.0,4.4508,0.87,Mumbai IIT Bombay
+2024-11-11,0.0,4.4136,0.85,Mumbai IIT Bombay
+2024-11-12,0.0,4.7561,0.6,Mumbai IIT Bombay
+2024-11-13,0.0,4.9166,0.4,Mumbai IIT Bombay
+2024-11-14,0.0,5.0215,0.48,Mumbai IIT Bombay
+2024-11-15,0.45,3.6062,0.71,Mumbai IIT Bombay
+2024-11-16,0.05,4.0178,0.88,Mumbai IIT Bombay
+2024-11-17,0.0,4.2955,0.63,Mumbai IIT Bombay
+2024-11-18,0.01,4.8588,0.42,Mumbai IIT Bombay
+2024-11-19,0.0,4.5274,0.56,Mumbai IIT Bombay
+2024-11-20,0.0,4.3222,0.62,Mumbai IIT Bombay
+2024-11-21,0.0,4.3661,0.77,Mumbai IIT Bombay
+2024-11-22,0.0,4.3121,0.82,Mumbai IIT Bombay
+2024-11-23,0.0,4.1558,0.84,Mumbai IIT Bombay
+2024-11-24,0.0,3.8789,0.83,Mumbai IIT Bombay
+2024-11-25,0.0,4.1635,0.67,Mumbai IIT Bombay
+2024-11-26,0.0,4.4232,0.53,Mumbai IIT Bombay
+2024-11-27,0.0,4.8372,0.46,Mumbai IIT Bombay
+2024-11-28,0.01,4.7604,0.45,Mumbai IIT Bombay
+2024-11-29,0.06,4.7033,0.38,Mumbai IIT Bombay
+2024-11-30,0.0,4.4736,0.51,Mumbai IIT Bombay
+2024-12-01,0.02,3.9331,0.62,Mumbai IIT Bombay
+2024-12-02,0.24,4.0291,0.59,Mumbai IIT Bombay
+2024-12-03,1.14,3.5453,0.7,Mumbai IIT Bombay
+2024-12-04,2.52,3.6864,0.94,Mumbai IIT Bombay
+2024-12-05,0.21,4.1746,0.72,Mumbai IIT Bombay
+2024-12-06,0.02,4.3296,0.5,Mumbai IIT Bombay
+2024-12-07,0.0,4.6303,0.23,Mumbai IIT Bombay
+2024-12-08,0.0,4.829,0.15,Mumbai IIT Bombay
+2024-12-09,0.0,4.5737,0.16,Mumbai IIT Bombay
+2024-12-10,0.0,4.7753,0.24,Mumbai IIT Bombay
+2024-12-11,0.0,4.5425,0.26,Mumbai IIT Bombay
+2024-12-12,0.0,4.4683,0.25,Mumbai IIT Bombay
+2024-12-13,0.0,4.523,0.28,Mumbai IIT Bombay
+2024-12-14,0.17,4.6102,0.29,Mumbai IIT Bombay
+2024-12-15,0.23,4.6145,0.2,Mumbai IIT Bombay
+2024-12-16,0.0,4.9742,0.13,Mumbai IIT Bombay
+2024-12-17,0.0,4.5674,0.2,Mumbai IIT Bombay
+2024-12-18,0.0,4.5497,0.29,Mumbai IIT Bombay
+2024-12-19,0.0,4.1174,0.37,Mumbai IIT Bombay
+2024-12-20,0.0,4.0289,0.46,Mumbai IIT Bombay
+2024-12-21,0.0,3.9523,0.7,Mumbai IIT Bombay
+2024-12-22,0.02,3.1402,1.01,Mumbai IIT Bombay
+2024-12-23,0.01,3.0986,1.82,Mumbai IIT Bombay
+2024-12-24,0.0,2.9698,1.95,Mumbai IIT Bombay
+2024-12-25,0.0,3.5076,1.52,Mumbai IIT Bombay
+2024-12-26,0.0,3.6799,1.4,Mumbai IIT Bombay
+2024-12-27,0.01,3.9031,1.14,Mumbai IIT Bombay
+2024-12-28,0.48,3.6847,0.95,Mumbai IIT Bombay
+2024-12-29,0.04,4.0277,0.76,Mumbai IIT Bombay
+2024-12-30,0.0,3.9722,0.73,Mumbai IIT Bombay
+2024-12-31,0.0,4.0906,0.56,Mumbai IIT Bombay
+2024-01-01,0.0,1.0831,2.92,Lucknow
+2024-01-02,0.24,1.0356,2.73,Lucknow
+2024-01-03,0.14,1.0442,2.87,Lucknow
+2024-01-04,0.29,0.533,3.28,Lucknow
+2024-01-05,0.42,0.527,3.63,Lucknow
+2024-01-06,1.97,0.6394,4.12,Lucknow
+2024-01-07,0.0,2.3938,1.98,Lucknow
+2024-01-08,0.0,2.6854,1.12,Lucknow
+2024-01-09,0.03,1.1959,2.2,Lucknow
+2024-01-10,0.01,1.7177,1.38,Lucknow
+2024-01-11,0.0,2.6719,0.42,Lucknow
+2024-01-12,0.0,2.1662,0.6,Lucknow
+2024-01-13,0.0,2.5416,0.57,Lucknow
+2024-01-14,0.0,1.7561,0.52,Lucknow
+2024-01-15,0.0,1.1674,1.03,Lucknow
+2024-01-16,0.0,2.0388,1.01,Lucknow
+2024-01-17,0.0,1.404,1.26,Lucknow
+2024-01-18,0.0,1.999,0.88,Lucknow
+2024-01-19,0.0,1.1006,0.78,Lucknow
+2024-01-20,0.0,0.8134,1.44,Lucknow
+2024-01-21,0.0,1.6157,1.11,Lucknow
+2024-01-22,0.0,2.8435,0.99,Lucknow
+2024-01-23,0.0,2.4346,0.96,Lucknow
+2024-01-24,0.0,2.8282,0.75,Lucknow
+2024-01-25,0.0,2.5022,0.82,Lucknow
+2024-01-26,0.0,2.538,0.95,Lucknow
+2024-01-27,0.0,3.3581,0.58,Lucknow
+2024-01-28,0.0,2.8433,0.57,Lucknow
+2024-01-29,0.0,3.4236,0.85,Lucknow
+2024-01-30,0.0,3.0074,1.07,Lucknow
+2024-01-31,0.0,3.4123,1.16,Lucknow
+2024-02-01,1.11,2.6942,1.49,Lucknow
+2024-02-02,0.0,3.6946,1.02,Lucknow
+2024-02-03,0.0,4.6726,0.36,Lucknow
+2024-02-04,3.68,1.8758,0.48,Lucknow
+2024-02-05,5.85,1.4741,0.81,Lucknow
+2024-02-06,0.01,2.4914,0.9,Lucknow
+2024-02-07,0.0,4.5967,0.4,Lucknow
+2024-02-08,0.0,5.2982,0.24,Lucknow
+2024-02-09,0.0,5.3534,0.23,Lucknow
+2024-02-10,0.0,5.0004,0.38,Lucknow
+2024-02-11,0.0,4.554,0.63,Lucknow
+2024-02-12,0.0,3.9838,1.05,Lucknow
+2024-02-13,0.76,2.8234,1.9,Lucknow
+2024-02-14,0.57,2.4468,2.53,Lucknow
+2024-02-15,0.01,3.822,1.1,Lucknow
+2024-02-16,0.0,4.175,0.88,Lucknow
+2024-02-17,0.0,5.2454,0.43,Lucknow
+2024-02-18,0.0,4.7201,0.42,Lucknow
+2024-02-19,0.0,4.5379,0.73,Lucknow
+2024-02-20,0.33,5.094,0.47,Lucknow
+2024-02-21,1.04,3.487,0.79,Lucknow
+2024-02-22,0.01,3.3914,1.07,Lucknow
+2024-02-23,0.0,5.5466,0.43,Lucknow
+2024-02-24,0.0,4.4362,0.51,Lucknow
+2024-02-25,0.0,4.9498,0.54,Lucknow
+2024-02-26,0.0,3.2796,0.63,Lucknow
+2024-02-27,0.19,3.4224,0.89,Lucknow
+2024-02-28,0.0,5.6194,0.43,Lucknow
+2024-02-29,0.0,5.9705,0.24,Lucknow
+2024-03-01,0.0,5.6858,0.35,Lucknow
+2024-03-02,5.86,2.3638,1.03,Lucknow
+2024-03-03,14.28,2.5704,0.88,Lucknow
+2024-03-04,0.57,4.4129,0.51,Lucknow
+2024-03-05,0.0,6.2933,0.27,Lucknow
+2024-03-06,0.0,5.9736,0.29,Lucknow
+2024-03-07,0.0,6.2635,0.27,Lucknow
+2024-03-08,0.0,6.2405,0.27,Lucknow
+2024-03-09,0.0,6.2258,0.32,Lucknow
+2024-03-10,0.0,6.067,0.35,Lucknow
+2024-03-11,0.0,5.7106,0.42,Lucknow
+2024-03-12,0.0,5.9736,0.43,Lucknow
+2024-03-13,0.0,5.8519,0.46,Lucknow
+2024-03-14,0.0,5.9117,0.44,Lucknow
+2024-03-15,0.0,6.1558,0.45,Lucknow
+2024-03-16,0.0,4.9644,0.44,Lucknow
+2024-03-17,0.0,5.9594,0.49,Lucknow
+2024-03-18,0.0,5.7787,0.62,Lucknow
+2024-03-19,0.0,6.3778,0.45,Lucknow
+2024-03-20,0.0,6.2009,0.53,Lucknow
+2024-03-21,1.57,5.8738,0.65,Lucknow
+2024-03-22,0.0,6.0055,0.59,Lucknow
+2024-03-23,0.0,6.4236,0.39,Lucknow
+2024-03-24,0.0,5.5248,0.48,Lucknow
+2024-03-25,0.0,6.0881,0.55,Lucknow
+2024-03-26,0.0,5.6376,0.36,Lucknow
+2024-03-27,0.0,6.2563,0.46,Lucknow
+2024-03-28,0.0,5.3093,0.55,Lucknow
+2024-03-29,0.0,5.7876,0.72,Lucknow
+2024-03-30,0.0,4.8454,1.08,Lucknow
+2024-03-31,0.0,6.475,0.52,Lucknow
+2024-04-01,0.0,6.8791,0.31,Lucknow
+2024-04-02,0.0,6.2426,0.37,Lucknow
+2024-04-03,0.0,6.0341,0.36,Lucknow
+2024-04-04,0.0,5.2874,0.6,Lucknow
+2024-04-05,0.0,5.7713,0.64,Lucknow
+2024-04-06,0.0,5.2022,0.59,Lucknow
+2024-04-07,0.0,6.7915,0.4,Lucknow
+2024-04-08,0.0,7.2307,0.33,Lucknow
+2024-04-09,0.0,5.5207,0.63,Lucknow
+2024-04-10,0.0,6.0655,0.72,Lucknow
+2024-04-11,0.0,6.2366,0.68,Lucknow
+2024-04-12,0.02,4.7554,0.61,Lucknow
+2024-04-13,0.11,5.4334,0.84,Lucknow
+2024-04-14,0.0,6.1128,0.83,Lucknow
+2024-04-15,0.0,5.5121,0.61,Lucknow
+2024-04-16,0.0,6.9365,0.38,Lucknow
+2024-04-17,0.0,7.2578,0.28,Lucknow
+2024-04-18,0.0,7.2694,0.33,Lucknow
+2024-04-19,0.0,7.1551,0.37,Lucknow
+2024-04-20,0.0,6.7123,0.47,Lucknow
+2024-04-21,0.0,5.5546,0.49,Lucknow
+2024-04-22,0.0,6.8882,0.53,Lucknow
+2024-04-23,0.0,6.3754,0.47,Lucknow
+2024-04-24,0.0,7.163,0.39,Lucknow
+2024-04-25,0.0,7.4275,0.36,Lucknow
+2024-04-26,0.0,7.1362,0.47,Lucknow
+2024-04-27,0.0,4.9838,0.71,Lucknow
+2024-04-28,0.01,7.2449,0.51,Lucknow
+2024-04-29,0.0,6.4634,0.45,Lucknow
+2024-04-30,0.0,7.4808,0.37,Lucknow
+2024-05-01,0.0,7.645,0.36,Lucknow
+2024-05-02,0.0,7.913,0.3,Lucknow
+2024-05-03,0.0,7.7515,0.35,Lucknow
+2024-05-04,0.0,5.0501,0.56,Lucknow
+2024-05-05,0.0,7.3944,0.37,Lucknow
+2024-05-06,0.0,6.8614,0.55,Lucknow
+2024-05-07,0.0,6.3617,1.07,Lucknow
+2024-05-08,0.37,5.5822,0.95,Lucknow
+2024-05-09,0.52,6.5477,0.82,Lucknow
+2024-05-10,0.0,6.3742,0.86,Lucknow
+2024-05-11,3.52,5.5018,1.08,Lucknow
+2024-05-12,0.04,6.372,0.87,Lucknow
+2024-05-13,0.38,5.7538,0.97,Lucknow
+2024-05-14,0.39,6.1133,1.07,Lucknow
+2024-05-15,0.0,5.927,1.01,Lucknow
+2024-05-16,0.0,6.6002,0.72,Lucknow
+2024-05-17,0.0,5.3611,1.11,Lucknow
+2024-05-18,0.0,6.731,0.72,Lucknow
+2024-05-19,0.0,7.0344,0.59,Lucknow
+2024-05-20,0.0,6.1553,0.73,Lucknow
+2024-05-21,0.29,6.8162,0.67,Lucknow
+2024-05-22,0.07,6.4699,0.79,Lucknow
+2024-05-23,0.22,6.499,0.92,Lucknow
+2024-05-24,0.0,5.7346,1.05,Lucknow
+2024-05-25,0.0,6.0744,0.99,Lucknow
+2024-05-26,0.02,5.599,0.96,Lucknow
+2024-05-27,0.0,6.9223,0.65,Lucknow
+2024-05-28,0.26,7.3572,0.44,Lucknow
+2024-05-29,0.0,6.7344,0.53,Lucknow
+2024-05-30,0.0,5.6194,0.9,Lucknow
+2024-05-31,0.13,7.0178,0.57,Lucknow
+2024-06-01,0.0,6.4243,0.83,Lucknow
+2024-06-02,0.12,6.5246,0.75,Lucknow
+2024-06-03,0.64,7.3238,0.6,Lucknow
+2024-06-04,0.71,6.8059,0.69,Lucknow
+2024-06-05,10.37,6.078,0.7,Lucknow
+2024-06-06,0.77,6.7774,0.67,Lucknow
+2024-06-07,0.1,6.8782,0.69,Lucknow
+2024-06-08,0.0,6.8662,0.89,Lucknow
+2024-06-09,0.0,6.5299,0.97,Lucknow
+2024-06-10,0.0,6.3269,0.81,Lucknow
+2024-06-11,0.0,6.3113,1.01,Lucknow
+2024-06-12,0.0,6.6511,0.75,Lucknow
+2024-06-13,0.0,6.1416,0.81,Lucknow
+2024-06-14,0.0,6.427,1.28,Lucknow
+2024-06-15,0.0,7.0248,0.72,Lucknow
+2024-06-16,0.0,6.8669,0.57,Lucknow
+2024-06-17,0.0,6.8362,0.69,Lucknow
+2024-06-18,0.0,5.9647,0.91,Lucknow
+2024-06-19,0.01,6.349,0.81,Lucknow
+2024-06-20,15.94,5.7466,1.03,Lucknow
+2024-06-21,0.1,6.282,1.29,Lucknow
+2024-06-22,0.31,5.1358,1.87,Lucknow
+2024-06-23,0.45,4.9356,2.08,Lucknow
+2024-06-24,1.56,4.4614,1.79,Lucknow
+2024-06-25,1.37,4.5677,1.9,Lucknow
+2024-06-26,2.93,4.4801,1.79,Lucknow
+2024-06-27,2.11,4.4062,1.86,Lucknow
+2024-06-28,22.73,4.6714,1.87,Lucknow
+2024-06-29,1.04,3.2585,1.66,Lucknow
+2024-06-30,125.91,4.0596,1.49,Lucknow
+2024-07-01,82.58,3.0038,1.72,Lucknow
+2024-07-02,38.4,2.1962,2.63,Lucknow
+2024-07-03,22.08,1.3198,3.52,Lucknow
+2024-07-04,26.23,3.966,1.84,Lucknow
+2024-07-05,36.54,3.1399,1.14,Lucknow
+2024-07-06,38.18,3.2095,1.09,Lucknow
+2024-07-07,50.12,2.6446,1.87,Lucknow
+2024-07-08,2.1,4.6862,2.2,Lucknow
+2024-07-09,0.11,4.1539,1.9,Lucknow
+2024-07-10,8.39,4.6457,1.32,Lucknow
+2024-07-11,5.03,4.3356,1.53,Lucknow
+2024-07-12,23.53,5.0542,1.65,Lucknow
+2024-07-13,7.33,3.87,1.55,Lucknow
+2024-07-14,0.4,5.5867,1.41,Lucknow
+2024-07-15,8.63,5.1713,1.44,Lucknow
+2024-07-16,0.04,6.0965,0.87,Lucknow
+2024-07-17,0.11,4.9783,1.12,Lucknow
+2024-07-18,4.91,5.1773,0.93,Lucknow
+2024-07-19,6.82,4.2862,1.22,Lucknow
+2024-07-20,1.62,5.563,1.11,Lucknow
+2024-07-21,0.0,5.9198,0.99,Lucknow
+2024-07-22,0.02,5.1662,1.12,Lucknow
+2024-07-23,2.21,5.0328,1.19,Lucknow
+2024-07-24,2.1,4.5732,0.99,Lucknow
+2024-07-25,17.1,4.6145,1.07,Lucknow
+2024-07-26,8.98,4.4153,1.17,Lucknow
+2024-07-27,0.05,5.0825,0.99,Lucknow
+2024-07-28,0.26,4.5355,0.84,Lucknow
+2024-07-29,2.29,5.7725,0.94,Lucknow
+2024-07-30,6.65,5.1233,0.8,Lucknow
+2024-07-31,24.78,1.5898,1.11,Lucknow
+2024-08-01,15.44,5.0945,1.19,Lucknow
+2024-08-02,2.87,5.2807,0.91,Lucknow
+2024-08-03,3.24,4.194,0.82,Lucknow
+2024-08-04,5.91,3.3756,0.87,Lucknow
+2024-08-05,1.36,5.5356,0.63,Lucknow
+2024-08-06,12.44,4.2605,1.06,Lucknow
+2024-08-07,18.16,3.2662,1.15,Lucknow
+2024-08-08,6.47,4.02,0.88,Lucknow
+2024-08-09,18.51,3.0254,1.17,Lucknow
+2024-08-10,22.86,3.2522,0.86,Lucknow
+2024-08-11,15.74,3.9077,0.79,Lucknow
+2024-08-12,8.43,3.9096,0.75,Lucknow
+2024-08-13,2.34,5.3215,0.76,Lucknow
+2024-08-14,2.52,4.2665,0.85,Lucknow
+2024-08-15,0.88,4.6015,1.1,Lucknow
+2024-08-16,2.46,5.1245,0.99,Lucknow
+2024-08-17,8.94,4.8749,0.95,Lucknow
+2024-08-18,25.11,2.5464,1.09,Lucknow
+2024-08-19,7.75,4.3843,1.23,Lucknow
+2024-08-20,13.95,3.8688,1.34,Lucknow
+2024-08-21,5.71,3.3197,0.91,Lucknow
+2024-08-22,2.77,4.181,0.99,Lucknow
+2024-08-23,3.3,4.6709,1.19,Lucknow
+2024-08-24,10.44,4.3826,0.9,Lucknow
+2024-08-25,0.44,4.5775,0.96,Lucknow
+2024-08-26,0.93,4.4285,0.69,Lucknow
+2024-08-27,15.15,4.0519,0.86,Lucknow
+2024-08-28,10.51,2.1322,0.6,Lucknow
+2024-08-29,8.17,5.7163,0.73,Lucknow
+2024-08-30,2.8,5.1413,0.88,Lucknow
+2024-08-31,2.21,5.3472,1.01,Lucknow
+2024-09-01,1.91,4.3999,1.25,Lucknow
+2024-09-02,2.44,4.6877,0.83,Lucknow
+2024-09-03,0.05,6.0384,0.71,Lucknow
+2024-09-04,2.59,4.373,0.92,Lucknow
+2024-09-05,6.43,3.8702,1.45,Lucknow
+2024-09-06,3.84,4.2631,1.85,Lucknow
+2024-09-07,4.88,5.1031,1.23,Lucknow
+2024-09-08,5.56,4.9474,1.15,Lucknow
+2024-09-09,3.3,3.6305,0.87,Lucknow
+2024-09-10,5.73,5.4818,0.73,Lucknow
+2024-09-11,19.24,2.8322,1.08,Lucknow
+2024-09-12,53.05,1.897,0.84,Lucknow
+2024-09-13,19.57,5.0062,1.0,Lucknow
+2024-09-14,1.84,4.9046,0.99,Lucknow
+2024-09-15,0.01,4.5226,1.14,Lucknow
+2024-09-16,8.41,4.4345,1.05,Lucknow
+2024-09-17,9.21,3.5052,0.87,Lucknow
+2024-09-18,10.78,3.577,0.88,Lucknow
+2024-09-19,0.1,5.7653,0.55,Lucknow
+2024-09-20,0.0,5.7053,0.51,Lucknow
+2024-09-21,0.0,4.6846,0.54,Lucknow
+2024-09-22,0.0,5.3784,0.5,Lucknow
+2024-09-23,0.0,5.4434,0.72,Lucknow
+2024-09-24,0.02,5.1938,0.92,Lucknow
+2024-09-25,1.33,3.9871,1.09,Lucknow
+2024-09-26,9.37,2.791,0.95,Lucknow
+2024-09-27,45.02,2.2428,0.63,Lucknow
+2024-09-28,25.11,1.4645,0.73,Lucknow
+2024-09-29,0.69,2.6738,0.64,Lucknow
+2024-09-30,0.0,5.1881,0.54,Lucknow
+2024-10-01,0.0,5.0911,0.69,Lucknow
+2024-10-02,0.02,5.2618,0.64,Lucknow
+2024-10-03,0.04,5.5697,0.48,Lucknow
+2024-10-04,0.0,5.2438,0.71,Lucknow
+2024-10-05,0.0,5.0981,0.68,Lucknow
+2024-10-06,3.77,4.1671,1.24,Lucknow
+2024-10-07,0.25,4.3558,1.12,Lucknow
+2024-10-08,0.06,4.3531,0.81,Lucknow
+2024-10-09,0.0,4.9699,0.65,Lucknow
+2024-10-10,0.0,3.3062,0.91,Lucknow
+2024-10-11,0.0,4.655,0.75,Lucknow
+2024-10-12,0.0,4.3265,0.7,Lucknow
+2024-10-13,0.0,3.2297,0.63,Lucknow
+2024-10-14,0.0,2.7955,0.96,Lucknow
+2024-10-15,0.0,4.9354,0.66,Lucknow
+2024-10-16,0.0,4.9572,0.75,Lucknow
+2024-10-17,0.0,4.4731,0.88,Lucknow
+2024-10-18,0.0,4.6462,0.71,Lucknow
+2024-10-19,0.0,4.8002,0.55,Lucknow
+2024-10-20,0.0,4.7364,0.62,Lucknow
+2024-10-21,0.0,4.5895,0.82,Lucknow
+2024-10-22,0.0,4.224,0.98,Lucknow
+2024-10-23,0.0,4.4287,0.66,Lucknow
+2024-10-24,0.0,4.6495,0.43,Lucknow
+2024-10-25,0.0,4.7858,0.4,Lucknow
+2024-10-26,0.0,4.6447,0.44,Lucknow
+2024-10-27,0.0,4.7222,0.26,Lucknow
+2024-10-28,0.0,4.5274,0.2,Lucknow
+2024-10-29,0.0,4.639,0.3,Lucknow
+2024-10-30,0.0,4.6906,0.39,Lucknow
+2024-10-31,0.0,4.7734,0.35,Lucknow
+2024-11-01,0.0,3.9948,0.82,Lucknow
+2024-11-02,0.0,4.0262,0.91,Lucknow
+2024-11-03,0.0,3.5719,1.14,Lucknow
+2024-11-04,0.0,3.3742,1.4,Lucknow
+2024-11-05,0.0,3.2868,1.15,Lucknow
+2024-11-06,0.0,3.6439,0.85,Lucknow
+2024-11-07,0.0,3.0751,1.13,Lucknow
+2024-11-08,0.0,3.0931,1.34,Lucknow
+2024-11-09,0.0,3.1716,1.36,Lucknow
+2024-11-10,0.0,3.2086,1.21,Lucknow
+2024-11-11,0.0,3.3437,1.16,Lucknow
+2024-11-12,0.0,3.1361,1.32,Lucknow
+2024-11-13,0.0,3.3962,1.09,Lucknow
+2024-11-14,0.0,3.0739,1.05,Lucknow
+2024-11-15,0.0,3.4886,0.91,Lucknow
+2024-11-16,0.0,3.4642,1.0,Lucknow
+2024-11-17,0.0,3.5496,0.89,Lucknow
+2024-11-18,0.0,3.1788,1.15,Lucknow
+2024-11-19,0.0,2.6278,1.64,Lucknow
+2024-11-20,0.0,2.5992,1.37,Lucknow
+2024-11-21,0.0,3.0583,1.23,Lucknow
+2024-11-22,0.0,2.9971,1.16,Lucknow
+2024-11-23,0.0,3.1699,0.94,Lucknow
+2024-11-24,0.0,3.2455,0.89,Lucknow
+2024-11-25,0.0,3.5854,0.71,Lucknow
+2024-11-26,0.0,3.2938,0.86,Lucknow
+2024-11-27,0.0,3.5698,0.69,Lucknow
+2024-11-28,0.0,3.4063,0.77,Lucknow
+2024-11-29,0.0,3.1433,0.92,Lucknow
+2024-11-30,0.0,3.0595,0.98,Lucknow
+2024-12-01,0.0,3.1114,0.9,Lucknow
+2024-12-02,0.0,3.2957,0.73,Lucknow
+2024-12-03,0.0,3.3391,0.66,Lucknow
+2024-12-04,0.0,4.1114,0.26,Lucknow
+2024-12-05,0.0,4.0682,0.27,Lucknow
+2024-12-06,0.0,4.0889,0.26,Lucknow
+2024-12-07,0.0,3.853,0.37,Lucknow
+2024-12-08,0.0,3.1056,0.82,Lucknow
+2024-12-09,0.0,2.3426,1.33,Lucknow
+2024-12-10,0.03,3.427,0.62,Lucknow
+2024-12-11,0.0,3.9053,0.36,Lucknow
+2024-12-12,0.0,3.8834,0.39,Lucknow
+2024-12-13,0.0,3.791,0.43,Lucknow
+2024-12-14,0.0,3.9482,0.34,Lucknow
+2024-12-15,0.0,3.491,0.51,Lucknow
+2024-12-16,0.0,3.0665,0.73,Lucknow
+2024-12-17,0.0,2.8445,0.89,Lucknow
+2024-12-18,0.0,2.8195,0.94,Lucknow
+2024-12-19,0.0,2.6018,1.06,Lucknow
+2024-12-20,0.0,2.424,1.22,Lucknow
+2024-12-21,0.0,2.8246,0.97,Lucknow
+2024-12-22,0.0,3.185,0.73,Lucknow
+2024-12-23,0.0,2.497,1.32,Lucknow
+2024-12-24,0.71,0.9185,2.05,Lucknow
+2024-12-25,0.06,2.0124,1.92,Lucknow
+2024-12-26,0.0,1.8607,2.2,Lucknow
+2024-12-27,0.0,2.3899,1.65,Lucknow
+2024-12-28,0.69,2.304,1.22,Lucknow
+2024-12-29,0.0,0.8597,1.06,Lucknow
+2024-12-30,0.0,0.7183,0.62,Lucknow
+2024-12-31,0.0,0.7536,0.49,Lucknow
+2024-01-01,0.0,4.6438,0.38,Pune
+2024-01-02,0.0,4.4652,0.51,Pune
+2024-01-03,0.0,4.0956,0.7,Pune
+2024-01-04,0.0,4.2173,0.64,Pune
+2024-01-05,0.0,4.051,0.76,Pune
+2024-01-06,0.0,4.1254,1.04,Pune
+2024-01-07,0.0,4.381,0.44,Pune
+2024-01-08,0.01,4.7006,0.43,Pune
+2024-01-09,2.44,2.6731,0.82,Pune
+2024-01-10,0.37,2.4703,0.74,Pune
+2024-01-11,0.04,4.8905,0.33,Pune
+2024-01-12,0.0,4.9934,0.33,Pune
+2024-01-13,0.0,4.9238,0.36,Pune
+2024-01-14,0.0,5.2008,0.25,Pune
+2024-01-15,0.0,5.5853,0.12,Pune
+2024-01-16,0.0,5.5452,0.16,Pune
+2024-01-17,0.0,5.143,0.32,Pune
+2024-01-18,0.0,4.8434,0.38,Pune
+2024-01-19,0.0,5.1905,0.33,Pune
+2024-01-20,0.0,5.2238,0.3,Pune
+2024-01-21,0.0,5.3102,0.26,Pune
+2024-01-22,0.0,5.2951,0.26,Pune
+2024-01-23,0.0,5.4562,0.23,Pune
+2024-01-24,0.0,5.4636,0.21,Pune
+2024-01-25,0.0,5.4442,0.3,Pune
+2024-01-26,0.0,5.0095,0.48,Pune
+2024-01-27,0.0,4.7282,0.66,Pune
+2024-01-28,0.0,4.6442,0.7,Pune
+2024-01-29,0.0,4.4873,0.71,Pune
+2024-01-30,0.0,4.8398,0.6,Pune
+2024-01-31,0.0,5.2889,0.41,Pune
+2024-02-01,0.0,5.5841,0.26,Pune
+2024-02-02,0.0,5.5579,0.32,Pune
+2024-02-03,0.0,5.5178,0.36,Pune
+2024-02-04,0.0,5.2874,0.43,Pune
+2024-02-05,0.0,5.2145,0.51,Pune
+2024-02-06,0.0,5.3117,0.49,Pune
+2024-02-07,0.0,5.6045,0.36,Pune
+2024-02-08,0.0,5.9191,0.23,Pune
+2024-02-09,0.0,5.9923,0.22,Pune
+2024-02-10,0.0,6.1219,0.19,Pune
+2024-02-11,0.0,6.0266,0.22,Pune
+2024-02-12,0.0,5.6438,0.33,Pune
+2024-02-13,0.0,5.4382,0.38,Pune
+2024-02-14,0.0,4.5989,0.37,Pune
+2024-02-15,0.0,5.5512,0.38,Pune
+2024-02-16,0.0,5.6952,0.32,Pune
+2024-02-17,0.0,6.0814,0.32,Pune
+2024-02-18,0.0,5.9489,0.38,Pune
+2024-02-19,0.0,6.2057,0.3,Pune
+2024-02-20,0.0,6.4406,0.18,Pune
+2024-02-21,0.0,6.5014,0.15,Pune
+2024-02-22,0.0,6.4195,0.22,Pune
+2024-02-23,0.0,6.6206,0.18,Pune
+2024-02-24,0.0,6.7051,0.17,Pune
+2024-02-25,0.0,6.4942,0.22,Pune
+2024-02-26,0.0,5.491,0.56,Pune
+2024-02-27,0.28,5.2896,0.88,Pune
+2024-02-28,0.07,5.4163,0.72,Pune
+2024-02-29,0.02,5.5397,0.47,Pune
+2024-03-01,0.49,5.1209,0.56,Pune
+2024-03-02,0.04,6.061,0.41,Pune
+2024-03-03,0.0,6.1363,0.22,Pune
+2024-03-04,0.0,6.9456,0.15,Pune
+2024-03-05,0.0,6.8611,0.17,Pune
+2024-03-06,0.0,6.9094,0.2,Pune
+2024-03-07,0.0,6.8582,0.21,Pune
+2024-03-08,0.0,6.8093,0.22,Pune
+2024-03-09,0.0,6.9384,0.21,Pune
+2024-03-10,0.0,6.8234,0.28,Pune
+2024-03-11,0.0,6.6792,0.36,Pune
+2024-03-12,0.0,6.6331,0.33,Pune
+2024-03-13,0.0,7.0675,0.2,Pune
+2024-03-14,0.0,7.0346,0.24,Pune
+2024-03-15,0.0,7.0044,0.26,Pune
+2024-03-16,0.0,6.7613,0.32,Pune
+2024-03-17,0.0,6.6816,0.42,Pune
+2024-03-18,0.0,6.7046,0.4,Pune
+2024-03-19,0.0,7.093,0.28,Pune
+2024-03-20,0.0,7.2866,0.23,Pune
+2024-03-21,0.0,6.7001,0.42,Pune
+2024-03-22,0.0,6.582,0.54,Pune
+2024-03-23,0.0,6.625,0.54,Pune
+2024-03-24,0.0,6.3866,0.5,Pune
+2024-03-25,0.0,6.6091,0.48,Pune
+2024-03-26,0.0,6.391,0.59,Pune
+2024-03-27,0.0,6.1898,0.77,Pune
+2024-03-28,0.02,5.857,0.82,Pune
+2024-03-29,0.26,5.1089,0.78,Pune
+2024-03-30,0.01,5.4509,0.84,Pune
+2024-03-31,0.0,5.701,0.96,Pune
+2024-04-01,0.0,6.1433,0.76,Pune
+2024-04-02,0.0,6.8064,0.56,Pune
+2024-04-03,0.0,6.6562,0.59,Pune
+2024-04-04,0.0,6.5453,0.56,Pune
+2024-04-05,0.0,6.629,0.56,Pune
+2024-04-06,0.0,6.635,0.54,Pune
+2024-04-07,0.0,6.883,0.41,Pune
+2024-04-08,0.0,7.3265,0.27,Pune
+2024-04-09,0.0,7.2118,0.36,Pune
+2024-04-10,0.0,7.0298,0.47,Pune
+2024-04-11,0.0,6.427,0.6,Pune
+2024-04-12,0.0,6.6259,0.56,Pune
+2024-04-13,0.01,7.2658,0.4,Pune
+2024-04-14,0.0,7.4347,0.29,Pune
+2024-04-15,0.0,6.4942,0.47,Pune
+2024-04-16,0.0,6.0638,0.71,Pune
+2024-04-17,0.0,5.7667,0.93,Pune
+2024-04-18,0.0,6.048,0.88,Pune
+2024-04-19,0.0,5.9114,0.83,Pune
+2024-04-20,3.59,5.3635,0.86,Pune
+2024-04-21,0.43,5.8817,0.67,Pune
+2024-04-22,0.02,6.7663,0.56,Pune
+2024-04-23,0.07,6.8162,0.55,Pune
+2024-04-24,1.45,5.9354,0.68,Pune
+2024-04-25,0.38,6.4294,0.69,Pune
+2024-04-26,0.05,6.5076,0.65,Pune
+2024-04-27,0.0,6.4075,0.71,Pune
+2024-04-28,0.0,6.5494,0.66,Pune
+2024-04-29,0.0,6.6432,0.67,Pune
+2024-04-30,0.0,7.0997,0.52,Pune
+2024-05-01,0.0,7.3558,0.36,Pune
+2024-05-02,0.0,7.9219,0.16,Pune
+2024-05-03,0.0,7.9116,0.19,Pune
+2024-05-04,0.0,7.7184,0.23,Pune
+2024-05-05,0.0,7.5062,0.24,Pune
+2024-05-06,0.01,7.711,0.18,Pune
+2024-05-07,0.0,7.6896,0.18,Pune
+2024-05-08,0.02,7.6399,0.22,Pune
+2024-05-09,0.04,7.0762,0.33,Pune
+2024-05-10,6.57,6.3938,0.54,Pune
+2024-05-11,17.09,5.9789,1.08,Pune
+2024-05-12,2.36,5.2313,1.22,Pune
+2024-05-13,3.47,5.8224,0.76,Pune
+2024-05-14,5.88,6.0907,0.64,Pune
+2024-05-15,6.22,6.9504,0.61,Pune
+2024-05-16,2.21,5.6671,0.72,Pune
+2024-05-17,1.54,6.187,0.92,Pune
+2024-05-18,1.71,6.0665,0.92,Pune
+2024-05-19,2.47,6.5554,0.76,Pune
+2024-05-20,5.15,6.2791,0.76,Pune
+2024-05-21,3.14,6.8194,0.6,Pune
+2024-05-22,0.97,5.7912,0.71,Pune
+2024-05-23,2.46,5.9496,0.79,Pune
+2024-05-24,0.13,6.6065,0.6,Pune
+2024-05-25,0.02,5.7295,0.55,Pune
+2024-05-26,0.03,5.639,0.59,Pune
+2024-05-27,0.0,2.4912,0.84,Pune
+2024-05-28,0.0,6.6631,0.61,Pune
+2024-05-29,0.01,6.959,0.47,Pune
+2024-05-30,0.01,6.8174,0.52,Pune
+2024-05-31,0.03,7.0762,0.42,Pune
+2024-06-01,0.05,6.564,0.4,Pune
+2024-06-02,0.22,6.4723,0.5,Pune
+2024-06-03,8.28,4.7066,0.63,Pune
+2024-06-04,13.79,5.7422,0.69,Pune
+2024-06-05,13.24,5.2723,0.54,Pune
+2024-06-06,10.72,5.2061,0.5,Pune
+2024-06-07,5.37,4.7534,1.02,Pune
+2024-06-08,36.55,4.825,1.29,Pune
+2024-06-09,43.36,2.5954,2.08,Pune
+2024-06-10,14.18,3.7574,1.37,Pune
+2024-06-11,8.31,4.0939,1.17,Pune
+2024-06-12,7.56,5.3995,0.83,Pune
+2024-06-13,11.46,4.8703,0.76,Pune
+2024-06-14,8.72,4.1748,0.63,Pune
+2024-06-15,2.35,4.9522,0.54,Pune
+2024-06-16,2.17,5.8692,0.58,Pune
+2024-06-17,2.64,5.04,0.61,Pune
+2024-06-18,9.39,5.2433,0.66,Pune
+2024-06-19,12.99,4.116,0.59,Pune
+2024-06-20,24.04,2.7782,1.03,Pune
+2024-06-21,12.67,3.3643,0.86,Pune
+2024-06-22,9.58,5.1898,0.64,Pune
+2024-06-23,10.92,5.1763,0.78,Pune
+2024-06-24,6.47,4.7676,0.82,Pune
+2024-06-25,13.0,4.9145,0.64,Pune
+2024-06-26,18.78,3.3329,0.58,Pune
+2024-06-27,18.9,3.1423,0.72,Pune
+2024-06-28,28.34,2.641,1.06,Pune
+2024-06-29,15.14,3.7913,1.07,Pune
+2024-06-30,15.81,2.3503,0.91,Pune
+2024-07-01,20.81,3.5791,1.02,Pune
+2024-07-02,26.42,3.2018,0.95,Pune
+2024-07-03,6.51,3.8304,0.94,Pune
+2024-07-04,7.6,3.3096,1.27,Pune
+2024-07-05,12.41,3.1752,1.52,Pune
+2024-07-06,24.73,3.2878,1.62,Pune
+2024-07-07,33.72,2.4262,1.45,Pune
+2024-07-08,34.67,2.0227,1.28,Pune
+2024-07-09,21.69,3.0211,0.92,Pune
+2024-07-10,8.71,4.6368,0.93,Pune
+2024-07-11,4.32,3.3756,1.19,Pune
+2024-07-12,48.07,1.925,1.34,Pune
+2024-07-13,64.9,1.6426,1.13,Pune
+2024-07-14,47.45,1.8689,1.37,Pune
+2024-07-15,18.6,3.4558,1.14,Pune
+2024-07-16,6.98,3.065,1.12,Pune
+2024-07-17,21.26,2.9539,1.14,Pune
+2024-07-18,31.23,2.1914,0.96,Pune
+2024-07-19,30.94,2.3582,0.99,Pune
+2024-07-20,42.66,2.269,0.75,Pune
+2024-07-21,53.32,2.0518,0.65,Pune
+2024-07-22,49.7,1.5722,1.29,Pune
+2024-07-23,67.95,2.1264,1.31,Pune
+2024-07-24,82.6,1.8046,0.55,Pune
+2024-07-25,125.97,0.9718,0.79,Pune
+2024-07-26,32.11,2.4878,1.12,Pune
+2024-07-27,16.61,2.1878,1.32,Pune
+2024-07-28,21.94,1.9534,1.38,Pune
+2024-07-29,33.27,1.8953,1.17,Pune
+2024-07-30,33.79,2.4408,1.44,Pune
+2024-07-31,19.25,2.6398,1.59,Pune
+2024-08-01,26.05,3.3192,1.26,Pune
+2024-08-02,28.65,2.3568,1.01,Pune
+2024-08-03,61.46,1.7081,1.02,Pune
+2024-08-04,38.81,1.1659,1.13,Pune
+2024-08-05,17.23,2.6686,1.27,Pune
+2024-08-06,11.41,3.2318,1.65,Pune
+2024-08-07,8.94,2.4053,2.41,Pune
+2024-08-08,7.59,3.2182,2.12,Pune
+2024-08-09,9.15,2.7595,0.99,Pune
+2024-08-10,9.13,2.5459,0.72,Pune
+2024-08-11,7.13,3.7205,0.73,Pune
+2024-08-12,2.95,4.1218,0.85,Pune
+2024-08-13,1.45,4.8257,0.73,Pune
+2024-08-14,0.16,5.0563,0.64,Pune
+2024-08-15,1.03,5.0839,0.8,Pune
+2024-08-16,2.21,5.0527,0.88,Pune
+2024-08-17,25.82,4.8948,1.19,Pune
+2024-08-18,91.08,4.7935,1.18,Pune
+2024-08-19,21.86,4.0306,1.09,Pune
+2024-08-20,9.79,3.7546,0.91,Pune
+2024-08-21,2.53,5.0158,0.9,Pune
+2024-08-22,5.15,4.5914,0.79,Pune
+2024-08-23,19.69,3.5815,0.73,Pune
+2024-08-24,56.66,1.5826,0.84,Pune
+2024-08-25,37.34,2.1019,0.84,Pune
+2024-08-26,32.96,2.9784,0.8,Pune
+2024-08-27,21.23,3.3866,0.7,Pune
+2024-08-28,14.03,3.0814,0.68,Pune
+2024-08-29,5.32,3.906,0.8,Pune
+2024-08-30,5.95,4.3145,0.71,Pune
+2024-08-31,3.49,4.4597,0.81,Pune
+2024-09-01,3.92,2.4041,1.17,Pune
+2024-09-02,15.01,1.7273,1.21,Pune
+2024-09-03,11.51,2.9208,1.21,Pune
+2024-09-04,21.15,3.7805,1.17,Pune
+2024-09-05,23.09,3.3689,1.0,Pune
+2024-09-06,11.11,3.5789,0.95,Pune
+2024-09-07,11.12,3.6814,0.83,Pune
+2024-09-08,5.1,4.5226,0.59,Pune
+2024-09-09,7.51,4.0865,0.61,Pune
+2024-09-10,7.52,3.5719,0.53,Pune
+2024-09-11,8.58,3.7932,0.89,Pune
+2024-09-12,5.07,3.7207,0.77,Pune
+2024-09-13,1.71,5.131,0.84,Pune
+2024-09-14,6.72,5.3218,0.59,Pune
+2024-09-15,8.73,3.0598,0.57,Pune
+2024-09-16,2.06,4.986,0.43,Pune
+2024-09-17,1.39,5.7427,0.45,Pune
+2024-09-18,0.37,6.2146,0.37,Pune
+2024-09-19,0.01,5.7233,0.48,Pune
+2024-09-20,0.68,5.364,0.68,Pune
+2024-09-21,4.05,4.548,1.01,Pune
+2024-09-22,9.86,5.0184,1.55,Pune
+2024-09-23,15.16,3.6348,1.59,Pune
+2024-09-24,25.2,2.6189,1.8,Pune
+2024-09-25,100.15,2.7391,1.41,Pune
+2024-09-26,51.88,2.7314,1.17,Pune
+2024-09-27,28.71,2.2253,0.87,Pune
+2024-09-28,6.87,3.4082,0.52,Pune
+2024-09-29,1.3,5.2658,0.52,Pune
+2024-09-30,0.48,6.137,0.41,Pune
+2024-10-01,2.06,5.6563,0.77,Pune
+2024-10-02,4.84,4.6649,0.78,Pune
+2024-10-03,0.4,5.201,0.63,Pune
+2024-10-04,0.08,5.3594,0.43,Pune
+2024-10-05,0.01,6.1246,0.31,Pune
+2024-10-06,4.91,5.1581,0.58,Pune
+2024-10-07,0.13,5.3402,0.85,Pune
+2024-10-08,1.93,4.4362,1.04,Pune
+2024-10-09,4.01,2.5582,0.95,Pune
+2024-10-10,16.72,3.3715,0.6,Pune
+2024-10-11,12.44,4.5367,0.57,Pune
+2024-10-12,0.63,4.428,0.46,Pune
+2024-10-13,13.13,5.0194,0.48,Pune
+2024-10-14,4.08,5.1228,0.57,Pune
+2024-10-15,11.05,4.0145,0.6,Pune
+2024-10-16,8.67,3.9665,0.72,Pune
+2024-10-17,2.18,3.2947,0.94,Pune
+2024-10-18,3.51,4.2019,0.79,Pune
+2024-10-19,5.57,4.5132,0.49,Pune
+2024-10-20,13.89,4.8413,0.48,Pune
+2024-10-21,1.24,4.3481,0.49,Pune
+2024-10-22,4.49,5.0477,0.6,Pune
+2024-10-23,1.91,5.3381,0.52,Pune
+2024-10-24,0.0,5.0568,0.69,Pune
+2024-10-25,0.0,5.0582,0.79,Pune
+2024-10-26,0.0,5.4907,0.5,Pune
+2024-10-27,0.0,5.6076,0.4,Pune
+2024-10-28,0.0,5.5442,0.36,Pune
+2024-10-29,0.89,5.0854,0.4,Pune
+2024-10-30,0.31,5.0986,0.49,Pune
+2024-10-31,0.07,4.11,1.0,Pune
+2024-11-01,0.22,4.1093,1.41,Pune
+2024-11-02,0.0,4.7974,0.91,Pune
+2024-11-03,0.0,5.0206,0.76,Pune
+2024-11-04,0.0,4.6265,0.97,Pune
+2024-11-05,0.0,4.7782,0.88,Pune
+2024-11-06,0.0,5.0498,0.77,Pune
+2024-11-07,0.0,4.9308,0.66,Pune
+2024-11-08,0.0,4.8005,0.68,Pune
+2024-11-09,0.0,4.885,0.73,Pune
+2024-11-10,0.0,4.4218,0.94,Pune
+2024-11-11,0.0,4.4083,0.9,Pune
+2024-11-12,0.0,4.7549,0.73,Pune
+2024-11-13,0.0,4.8797,0.58,Pune
+2024-11-14,0.01,4.6272,0.76,Pune
+2024-11-15,2.59,2.7578,0.94,Pune
+2024-11-16,0.94,3.6569,1.05,Pune
+2024-11-17,0.0,4.296,0.83,Pune
+2024-11-18,0.0,4.9966,0.52,Pune
+2024-11-19,0.0,4.8456,0.56,Pune
+2024-11-20,0.0,4.7753,0.61,Pune
+2024-11-21,0.0,4.7515,0.64,Pune
+2024-11-22,0.0,4.601,0.79,Pune
+2024-11-23,0.0,4.4345,0.83,Pune
+2024-11-24,0.0,4.1832,0.85,Pune
+2024-11-25,0.0,4.1422,0.76,Pune
+2024-11-26,0.0,4.3627,0.7,Pune
+2024-11-27,0.0,4.7527,0.52,Pune
+2024-11-28,0.0,4.848,0.46,Pune
+2024-11-29,0.0,4.9999,0.4,Pune
+2024-11-30,0.0,4.3104,0.53,Pune
+2024-12-01,0.0,3.5508,0.58,Pune
+2024-12-02,0.0,3.4918,0.75,Pune
+2024-12-03,0.14,3.457,0.49,Pune
+2024-12-04,0.42,3.8155,0.49,Pune
+2024-12-05,0.46,4.3313,0.64,Pune
+2024-12-06,0.05,3.8825,0.75,Pune
+2024-12-07,0.0,4.5336,0.35,Pune
+2024-12-08,0.0,4.9298,0.16,Pune
+2024-12-09,0.0,4.7786,0.19,Pune
+2024-12-10,0.0,4.7717,0.38,Pune
+2024-12-11,0.0,4.6565,0.46,Pune
+2024-12-12,0.0,4.6608,0.41,Pune
+2024-12-13,0.0,4.8029,0.35,Pune
+2024-12-14,0.0,4.6495,0.42,Pune
+2024-12-15,0.0,4.5984,0.37,Pune
+2024-12-16,0.0,5.0774,0.22,Pune
+2024-12-17,0.0,4.8809,0.33,Pune
+2024-12-18,0.0,4.8466,0.36,Pune
+2024-12-19,0.0,4.6051,0.43,Pune
+2024-12-20,0.0,4.4014,0.55,Pune
+2024-12-21,0.0,4.2067,0.69,Pune
+2024-12-22,0.0,4.3075,0.41,Pune
+2024-12-23,0.0,3.5623,0.93,Pune
+2024-12-24,0.0,3.1903,1.22,Pune
+2024-12-25,0.0,3.613,1.39,Pune
+2024-12-26,0.0,3.546,1.45,Pune
+2024-12-27,0.01,3.7946,0.79,Pune
+2024-12-28,1.12,4.2523,0.57,Pune
+2024-12-29,0.28,4.266,0.57,Pune
+2024-12-30,0.0,4.4165,0.49,Pune
+2024-12-31,0.0,4.5067,0.49,Pune

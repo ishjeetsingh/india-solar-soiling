@@ -1,0 +1,9 @@
+scenario,median_interval_days,rank_agreement
+base case,15.0,1.0
+cleaning ₹1/kWp,10.0,0.87
+cleaning ₹4/kWp,23.0,0.85
+tariff ₹2.0/kWh,20.0,0.91
+tariff ₹3.5/kWh,13.0,0.85
+rain threshold 2 mm,22.0,0.85
+rain threshold 10 mm,14.0,0.82
+no dust term (B=0),16.5,0.88
